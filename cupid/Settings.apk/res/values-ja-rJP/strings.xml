@@ -2226,6 +2226,12 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="camera_front">フロント %s</string>
     <string name="camera_gesture_desc">手首を2回ひねる動作でカメラアプリを開きます</string>
     <string name="camera_gesture_title">2回ひねる動作でカメラアプリを開く</string>
+    <string name="camera_grip_firmware_need_update">Update</string>
+    <string name="camera_grip_firmware_new_version">Up to date</string>
+    <string name="camera_grip_firmware_title_text">Update firmware</string>
+    <string name="camera_grip_firmware_update_faild">"Couldn't update"</string>
+    <string name="camera_grip_firmware_update_ongoing">Updating…</string>
+    <string name="camera_grip_firmware_update_successful">Updated successfully</string>
     <string name="camera_key_action_app_title">アプリを開く</string>
     <string name="camera_key_action_category_title">"カメラは使用できません"</string>
     <string name="camera_key_action_none_title">何もしない</string>
@@ -2331,7 +2337,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="change_security_lock">他の方法でロックを解除する</string>
     <string name="change_storage">ストレージの変更</string>
     <string name="change_theme_reboot">Changing the theme requires a restart.</string>
-    <string name="change_wifi_state_app_detail_summary">このアプリによる Wi-Fi の ON / OFF 切り替え、Wi-Fi ネットワークのスキャンと接続、ネットワークの追加と削除、ローカル専用アクセス ポイントの起動を許可します</string>
+    <string name="change_wifi_state_app_detail_summary">Allow this app to turn Wi-Fi on or off, scan and connect to Wi-Fi networks, add or remove networks, or start a local-only hotspot.</string>
     <string name="change_wifi_state_app_detail_switch">Wi-Fi の管理をアプリに許可</string>
     <string name="change_wifi_state_title">Wi-Fi の管理</string>
     <string name="channel_group_notifications_off_desc">リクエストに従い、このグループの通知はこのデバイスには表示されません</string>
@@ -3888,6 +3894,7 @@ Please send this code to the technician."</string>
     <string name="face_data_suggesstion_first_cn">顔認証を使用するには、顔データを収集する必要があります。顔データは、このデバイスにローカルに保存されます。削除するには、[設定] で [顔認証] を検索し、[顔認証] &gt; [顔データ] を選択してください。</string>
     <string name="face_data_suggesstion_first_cn_highlight">顔認証は、PIN、パスワード、パターン、指紋よりも安全性の低い認証方法です。あなたの写真や、似たような外見の人や物によってロックが解除されてしまう可能性があります。</string>
     <string name="face_data_suggesstion_second">"顔のすべての部分が物によって覆われていないか、はっきりと見えているかを確認してください。また、顔が明るく写っているかも確認してください。"</string>
+    <string name="face_enroll_when_slt_on_toast"></string>
     <string name="face_intro_error_max">追加された顔の数が上限に達しました</string>
     <string name="face_intro_error_unknown">これ以上、顔を追加できません</string>
     <string name="face_password_unlock">顔データと画面ロック</string>
@@ -3932,6 +3939,7 @@ Please send this code to the technician."</string>
     <string name="face_unlock_success_stay_screen_msg">顔が認証されたあと、ロック画面に留まります。ホーム画面を開くには、上にスワイプします。</string>
     <string name="face_unlock_success_stay_screen_title">ロック解除後もロック画面に留まる</string>
     <string name="face_unlock_title">顔認証を使用してスマートフォンのロックを解除できます。セキュリティ上の理由により、この方法を使用する際は予備の画面ロックを選択する必要があります。</string>
+    <string name="face_unlock_when_slt_on_toast"></string>
     <string name="factory_reset_summary">フォーマットすると、デバイスの内部ストレージからすべてのデータが消去されます</string>
     <string name="fahrenheit_temperature_unit">Fahrenheit (°F)</string>
     <string name="failed_attempts_now_wiping_device">"複数回失敗しました。このデバイスのデータは消去されます。"</string>
@@ -4214,7 +4222,7 @@ Please send this code to the technician."</string>
 "</string>
     <string name="font_size_summary1">"システムの文字がまだ小さい場合は、こちらをお試しください "</string>
     <string name="font_size_summary2">シンプルモード</string>
-    <string name="footer_description_full_screen_intent">Allow this app to show notifications that take up the full screen when the device is locked. Apps may use these to highlight alarms, incoming calls, or other urgent notifications.</string>
+    <string name="footer_description_full_screen_intent">Allow this app to display notifications that take up the entire screen when the device is locked. The app can use full screen notifications to display alarms, incoming calls, or other urgent notifications. This setting relies on the permission to open new windows while running in the background and can only be used when this permission is granted.</string>
     <string name="footer_learn_more_content_description">「%1$s」の詳細</string>
     <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
     <string name="forbidden_network">（禁止）</string>
@@ -7389,6 +7397,8 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="phone_language_summary"></string>
     <string name="photo_data">写真とビデオ</string>
     <string name="photography_handle_button_function_settings">Set up grip button</string>
+    <string name="photography_handle_charge_protected">Grip charging auto-disconnect</string>
+    <string name="photography_handle_charge_protected_summary">"When your device recognizes that you're using a camera grip, device will stop charging and keep battery at %1$s"</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
@@ -7757,6 +7767,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="privacy_thumbnail_blur_title">アプリのプレビューをぼかす</string>
     <string name="private_dns_broken">プライベートDNSサーバーにアクセスできません</string>
     <string name="private_dns_help_message">プライベート DNS 機能の<annotation id="url">詳細を見る</annotation></string>
+    <string name="private_dns_host_name">Private DNS provider hostname</string>
     <string name="private_dns_mode_off">オフ</string>
     <string name="private_dns_mode_on">ON</string>
     <string name="private_dns_mode_opportunistic">自動</string>
@@ -7765,6 +7776,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="private_dns_mode_provider_exposed_hostname">Discoverable</string>
     <string name="private_dns_mode_provider_failure">"接続できません"</string>
     <string name="private_dns_mode_provider_hostname_hint">DNSプロバイダーのホスト名を入力</string>
+    <string name="private_dns_title">Private DNS</string>
     <string name="private_gallery_need_to_unlock">パスワードを入力してください</string>
     <string name="private_gallery_recording_intro_header">ロック解除パターンを入力</string>
     <string name="private_gallery_reset_by_account">パスワードをリセットするには、Xiaomi アカウントにサインインしてください。</string>
