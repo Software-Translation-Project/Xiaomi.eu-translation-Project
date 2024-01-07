@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%sスヌーズ</string>
     <string name="alarm_permanent_alert">Ringing</string>
     <string name="alarm_repeat">繰り返し</string>
+    <string name="alarm_repeat_self_define">Customize</string>
     <string name="alarm_repeat_self_define_button">Customize</string>
     <string name="alarm_ringtone_picker">アラーム</string>
     <string name="alarm_set_new">Alarm will go off in less than %d minute.</string>
@@ -555,6 +556,7 @@
     <string name="privacy_policy_title">プライバシーポリシー</string>
     <string name="privacy_settings_title">プライバシー</string>
     <string name="query_privacy_policy">プライバシーポリシーを表示</string>
+    <string name="read_device_internal_storage">Access storage</string>
     <string name="read_external_storage_permission_desc">カスタム通知音を設定するため</string>
     <string name="read_internal_storage">ストレージへのアクセス</string>
     <string name="remark_hint">ラベルを入力してください</string>
