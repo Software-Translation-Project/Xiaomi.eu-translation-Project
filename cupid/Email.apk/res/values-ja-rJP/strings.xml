@@ -210,7 +210,7 @@ To fully understand your rights as a user as well as the ways in which we proces
     <string name="add_pre_message_attachments_yes">追加</string>
     <string name="add_star">スターを付ける</string>
     <string name="afternoon">午後</string>
-    <string name="agreement_url" formatted="false">https://miui.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
+    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
     <string name="all_purpose">メールへようこそ！これは、KingsoftがXiaomi用にカスタムメイドしたメールクライアントです。このアプリを使用すると、メールを作成、送信、受信することができます。</string>
     <string name="allow_notify">Allow notifications</string>
     <string name="always_bcc_myself">常にBccに自分を追加</string>
@@ -1061,6 +1061,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="notification_action_undo_delete">削除済み</string>
     <string name="notification_action_undo_remove_label">ラベルが削除されました</string>
     <string name="notification_message">Notify about new messages in selected folders only?</string>
+    <string name="notification_mutli_message_content">点击查看</string>
     <string name="notification_off">Off</string>
     <string name="notification_on">On</string>
     <string name="notify_channel_new_mail">新しいメッセージについて通知する</string>
@@ -1188,7 +1189,7 @@ This issue might be caused by the account's two-factor authentication. Try enter
     <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">"ログには、メールクライアントのデバッグ情報とデバイス情報が含まれています。この情報は、問題をより早く特定するために使用されます。下の \"%1$s\" をタップすると、当社の \"%2$s\" に同意したことになります。"</string>
     <string name="privacy_policy">プライバシーポリシー</string>
-    <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
+    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">同意</string>
     <string name="progress">進行状況:</string>
     <string name="prompt_title">プロンプト</string>
