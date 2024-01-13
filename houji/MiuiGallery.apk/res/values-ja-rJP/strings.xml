@@ -2201,6 +2201,7 @@ Take more photos of your friends!"</string>
     <string name="mark_people_ignore_info_message">ユーザをグループに追加するには写真を長押ししてください</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="media_type_burst_photo">Burst</string>
+    <string name="media_type_cinematic">Movie mode</string>
     <string name="media_type_clone_photo">Clones</string>
     <string name="media_type_doc_photo">Docs</string>
     <string name="media_type_fast_motion_video">Time-lapse</string>
@@ -3320,7 +3321,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="select_origin_tip">元のファイル (%s)</string>
     <string name="send">Send</string>
     <string name="send_diagnosis_log">Send logs</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Dolby Vision videos longer than 4 minutes can only be shared in their original video format which might not be supported by the receiving device. Continue anyway?</string>
     <string name="send_dolby_vision_video_continue">Continue</string>
     <string name="send_email_activate_message">Sent verification email successfully</string>
     <string name="send_file_beautify_failed">"共有できませんでした"</string>
@@ -3332,6 +3332,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="send_public_url">アルバムのURLを送信</string>
     <string name="send_secret_file_failed">"共有できませんでした"</string>
     <string name="send_secret_file_space_low">ストレージに十分な空き領域がありません</string>
+    <string name="send_special_video_duration_more_than_40s">Processed videos that are longer than %d minutes can only be shared in their original format, which might not be compatible with the receiving device. Continue anyway?</string>
     <string name="service_error">Server error</string>
     <string name="service_is_provided_by_miui_cloud_service">This service is provided by Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">ロック画面の壁紙として設定</string>
@@ -3892,6 +3893,8 @@ Until %1$s, you can move your items to Google Photos or visit i.mi.com to downlo
     <string name="tip_capture_time">撮影日時:</string>
     <string name="tip_file_info">情報:</string>
     <string name="tip_file_path">保存場所:</string>
+    <string name="tip_leica_authentic">Leica Authentic</string>
+    <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">端末上にありません。再生時にCloudからダウンロードされます。</string>
     <string name="tip_screenshot_package_info">アプリ名:</string>
     <string name="tips_for_photo_page_selection">You can tap items to view them</string>

@@ -182,6 +182,7 @@
     <string name="date_picker_lunar">中国暦</string>
     <string name="date_time_picker_dialog_title">日付と時刻を設定</string>
     <string name="default_noti_quota_full_title">クラウドストレージがいっぱいです</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="detect_sim_card">SIMカードを検索</string>
     <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
     <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br&gt;&lt;br&gt;Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s&gt;Return, Exchange, and Repair Policy&lt;/a&gt; for more details.&lt;br&gt;&lt;br&gt;Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
@@ -330,6 +331,11 @@
     <string name="gallery_service_termination_announcement_title">"ギャラリーアイテムは、Xiaomi Cloudに同期できなくなりました。クラウドと同期した写真やビデオは、Google フォトに転送するか、i.mi.comにアクセスして同期した写真やビデオをデバイスにダウンロードすることをお勧めします。転送とダウンロードのサービスは、%sまで利用できますが、それ以降はXiaomi Cloudアカウントに同期したすべてのギャラリーアイテムが完全に削除されます。"</string>
     <string name="gallery_service_termination_btn_continue">続ける</string>
     <string name="gallery_service_termination_more_info">詳細については、\"%s\"を参照してください</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:075d2c0ae502da8696ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -790,6 +796,7 @@
     <string name="privacy_runtime_perm_sms_desc">メッセージを同期するため</string>
     <string name="privacy_runtime_perm_sms_title">メッセージへのアクセス</string>
     <string name="privacy_settings">プライバシー</string>
+    <string name="project_id">micloud-43705</string>
     <string name="provision_back">戻る</string>
     <string name="provision_next">次へ</string>
     <string name="provision_skip_underline">スキップ</string>

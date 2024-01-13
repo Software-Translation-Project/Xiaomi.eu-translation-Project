@@ -323,6 +323,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="install_preinstall_app">アプリを読み込んでいます…</string>
     <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
     <string name="interconnection_communication_introduction">Xiaomiインターネット通信サービスでは、他のXiaomiデバイスを検出、接続、通信することができます。</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
+    <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Interconnectivity allows your devices to interact with each other wirelessly. By toggling this switch on, you're agreeing to the Xiaomi Interconnectivity's &lt;a href=%1$s&gt;Privacy Policy&lt;/a &gt;.&lt;/Data&gt;"</string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -396,6 +398,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity features may vary depending on device model and system version. Visit the system's official website to learn more."</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">"画面ロックを設定しないと、デバイスを紛失した場合に他の人がデバイスを使用したり、データにアクセスしたりするのを防ぐことができません。スキップしてもよろしいですか？"</string>
     <string name="item_facerecognition">顔認証</string>

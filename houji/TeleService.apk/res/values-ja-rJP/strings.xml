@@ -2347,7 +2347,7 @@ UT インターフェース: %5$s"</string>
     <string name="t9_indexing_rebuilding_message">T9インデックスを再構築…</string>
     <string name="technology_news_disable">テクノロジーニュースは無効になっています</string>
     <string name="technology_news_enable">テクノロジーニュースは有効になっています</string>
-    <string name="telephony_setting">電話</string>
+    <string name="telephony_setting">Apps/Other settings/System app settings/Phone</string>
     <string name="telocation_auto_country_code">国コードを追加</string>
     <string name="telocation_auto_country_code_summary">連絡先にダイヤルする前に自動的に国番号を追加する</string>
     <string name="telocation_call_assistant">ダイヤルアシスタント</string>

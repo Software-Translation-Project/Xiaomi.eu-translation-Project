@@ -69,8 +69,7 @@ FQDN: %2$s
     <string name="wifi_installer_fail_title">"インストールできません"</string>
     <string name="wifi_installing_label">インストール中</string>
     <string name="wifi_no_config">なし</string>
-    <string name="wifi_sim_config_text">"SIM: %s
-"</string>
+    <string name="wifi_sim_config_text">"SIM: %s"</string>
     <string name="wifi_title">Wi-Fiプロファイル</string>
     <string name="wifi_tls_config_text">"クライアント証明書:
 %1$s

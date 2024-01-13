@@ -800,6 +800,7 @@
         <item>com.tencent.mobileqq</item>
         <item>com.xiaomi.xmsf</item>
         <item>com.miui.systemAdSolution</item>
+        <item>com.ss.android.lark.kami</item>
     </string-array>
     <string-array name="config_keyguardQuickAffordanceDefaults">
         <item>bottom_start:</item>
@@ -884,6 +885,7 @@
         <item>fm.qingting.qtradio</item>
     </string-array>
     <string-array name="config_statusBarIcons">
+        <item>handle</item>
         <item>network_speed</item>
         <item>mute</item>
         <item>micphone</item>
@@ -1609,6 +1611,7 @@
     <string-array name="top_caption_insets_black_list">
         <item>com.ss.android.article.news</item>
         <item>com.tencent.mobileqq</item>
+        <item>com.ss.android.article.search</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
         <item>Move left</item>

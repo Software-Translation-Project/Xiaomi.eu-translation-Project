@@ -25,7 +25,7 @@
     <string name="notification_channel_network_alerts">ネットワーク通知</string>
     <string name="notification_channel_network_available">ネットワークを利用できます</string>
     <string name="notification_channel_network_status">ネットワークのステータス</string>
-    <string name="ok">OK</string>
+    <string name="ok">OК</string>
     <string name="wifiResourcesAppLabel">システム Wi-Fi リソース</string>
     <string name="wifi_available_action_all_networks">すべてのネットワーク</string>
     <string name="wifi_available_action_connect">接続</string>
