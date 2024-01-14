@@ -48,10 +48,10 @@
     <string name="anti_flicker_mode">ちらつき防止</string>
     <string name="anti_flicker_mode_categroy">モード</string>
     <string name="anti_flicker_mode_summary">低光量下での広範囲のちらつきを防ぎ、目の疲れを軽減する</string>
-    <string name="anti_flicker_mode_summary_new">Use DC dimming in low light to reduce eye strain</string>
+    <string name="anti_flicker_mode_summary_new">低照度下でDC調光を使用し、眼精疲労を軽減する</string>
     <string name="anti_flicker_title">ちらつき防止モード</string>
     <string name="app_name">設定</string>
-    <string name="app_use">App screen time</string>
+    <string name="app_use">アプリスクリーンタイム</string>
     <string name="application_sound">アプリの通知</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -394,7 +394,7 @@
     <string name="follow_apps_settings">アプリの設定に基づく</string>
     <string name="follow_sim1">SIM 1の設定を適用</string>
     <string name="footer_max_fps" formatted="false">"
-%d. Refresh rate can be adjusted to up to %s Hz for supported apps and games."</string>
+%d. リフレッシュレートは、サポートされているアプリやゲームで最大%s Hzまで調整可能です。"</string>
     <string name="force_rest">セッション休憩を使用</string>
     <string name="force_rest_summary">セッションが制限に達した場合、強制的に休憩を取る</string>
     <string name="force_rest_time">休憩時間</string>
@@ -517,21 +517,21 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">アフリカハゲコウは巨大な鳥であり、頻繁にスカベンジャーになります。</string>
     <string name="masked_palm_civet">ハクビシン</string>
-    <string name="max_fps_string">Up to %s Hz</string>
+    <string name="max_fps_string">最大%sHz</string>
     <string name="medium_tree_finch">ダーウィンフィンチ</string>
-    <string name="mi_transfer_banner_summary">Multiple device brands are supported</string>
-    <string name="mi_transfer_banner_title">Transfer items from your old device</string>
+    <string name="mi_transfer_banner_summary">複数のデバイスブランドがサポートされています</string>
+    <string name="mi_transfer_banner_title">古いデバイスからアイテムを転送する</string>
     <string name="midnight">真夜中</string>
     <string name="miuix_access_state_desc">選択済み</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">選択を解除</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_action_mode_select_all">すべて選択</string>
     <string name="miuix_appcompat_action_mode_title_empty">アイテムを選択</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">その他</string>
     <string name="miuix_appcompat_cancel_description">キャンセル</string>
     <string name="miuix_appcompat_confirm_description">確認</string>
     <string name="miuix_appcompat_delete_description">削除</string>
-    <string name="miuix_appcompat_deselect_all">選択を解除</string>
+    <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
     <string name="miuix_appcompat_edit">Edit</string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
@@ -772,7 +772,7 @@
     <string name="stop_summary">この機能をオフにすると、すべてのスクリーンタイムの統計とデータが削除されます</string>
     <string name="suggestion">フィードバック</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
-    <string name="summary_max_fps_for_intelligent">Adjust the refresh rate dynamically to up to %s Hz based on scenarios to balance performance with power consumption</string>
+    <string name="summary_max_fps_for_intelligent">シナリオに応じてリフレッシュレートを最大%s Hzまで動的に調整し、パフォーマンスと消費電力のバランスをとる</string>
     <string name="sunday">日曜日</string>
     <string name="sunday_short">日</string>
     <string name="sunday_shortest">日</string>
