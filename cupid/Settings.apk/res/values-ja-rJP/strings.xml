@@ -146,7 +146,7 @@
     <string name="accessibility_captioning_preference_intro">Customize caption size and style to make them easier to read</string>
     <string name="accessibility_captioning_preference_summary">These caption preferences aren’t supported by all media apps</string>
     <string name="accessibility_captioning_primary_switch_summary">For supported app only</string>
-    <string name="accessibility_captioning_primary_switch_title">Show captions</string>
+    <string name="accessibility_captioning_primary_switch_title">字幕を表示</string>
     <string name="accessibility_captioning_title">字幕の設定</string>
     <string name="accessibility_category_clone">Clone profile accounts</string>
     <string name="accessibility_category_personal">個人用プロファイルアカウント</string>
@@ -193,7 +193,7 @@
     <string name="accessibility_ethernet_disconnected">イーサネットが切断されました。</string>
     <string name="accessibility_feature_state_off">OFF</string>
     <string name="accessibility_feature_state_on">ON</string>
-    <string name="accessibility_fingerprint_label">Fingerprint sensor</string>
+    <string name="accessibility_fingerprint_label">指紋認証センサー</string>
     <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Font size added to Quick Settings. Swipe down to change the font size anytime.</string>
     <string name="accessibility_found_all_devices">Don’t see your hearing device?</string>
     <string name="accessibility_found_hearing_devices">Available hearing devices</string>
@@ -206,8 +206,8 @@
     <string name="accessibility_hearing_device_control">Hearing device controls</string>
     <string name="accessibility_hearing_device_footer_summary">Make sure your hearing device is turned on and ready to pair</string>
     <string name="accessibility_hearing_device_pairing_page_title">Pair hearing device</string>
-    <string name="accessibility_hearing_device_pairing_title">Pair new device</string>
-    <string name="accessibility_hearing_device_saved_title">Saved devices</string>
+    <string name="accessibility_hearing_device_pairing_title">新しいデバイスとペア設定</string>
+    <string name="accessibility_hearing_device_saved_title">保存済みのデバイス</string>
     <string name="accessibility_hearing_device_shortcut_title">Hearing device shortcut</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s（有効）</string>
     <string name="accessibility_hearingaid_adding_summary">補聴器を追加する</string>
@@ -298,7 +298,7 @@
     <string name="accessibility_screen_magnification_gestures_title">トリプルタップで拡大</string>
     <string name="accessibility_screen_magnification_intro_text">画面をすばやくズームインして、コンテンツを拡大できます</string>
     <string name="accessibility_screen_magnification_joystick_summary">Activate and move the magnifier with an on-screen joystick. Tap and hold, then drag on the joystick to control the magnifier. Tap and drag to move the joystick itself.</string>
-    <string name="accessibility_screen_magnification_joystick_title">Joystick</string>
+    <string name="accessibility_screen_magnification_joystick_title">ジョイスティック</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">[ユーザー補助機能] ボタンが [%1$s] に設定されています。拡大を使用するには、[ユーザー補助機能] ボタンを押し続けて [拡大] を選択してください。</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">ボタンをタップしてズームします</string>
     <string name="accessibility_screen_magnification_navbar_summary">"[拡大] を ON にすると、画面で拡大操作を行えます。
@@ -906,7 +906,7 @@
     <string name="applications_settings">アプリを管理</string>
     <string name="applications_settings_header">アプリの設定</string>
     <string name="applications_settings_title">アプリ</string>
-    <string name="applications_settings_title_new">Manage apps</string>
+    <string name="applications_settings_title_new">アプリを管理</string>
     <string name="apply">適用</string>
     <string name="apply_fingerprint_to">指紋の使用先</string>
     <string name="apply_fingerprint_to_category_title">指紋の使用先…</string>
@@ -1066,9 +1066,9 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="automatic_system_heap_dump_summary">Android システムでメモリの使用量が多すぎる場合にヒープダンプを自動的に取得します</string>
     <string name="automatic_system_heap_dump_title">システムのヒープダンプの自動取得</string>
     <string name="autoui_mode_guide_text">Optimize in-app layouts for compatible apps to enhance visual experience</string>
-    <string name="autoui_mode_name">Optimize app layout</string>
+    <string name="autoui_mode_name">アプリのレイアウトを最適化</string>
     <string name="autoui_mode_no_support_apps">"Couldn't find compatible apps"</string>
-    <string name="autoui_search_hint">Search apps</string>
+    <string name="autoui_search_hint">アプリを検索</string>
     <string name="available_size">%s (利用可能)</string>
     <string name="available_virtual_keyboard_category">利用可能な画面キーボード</string>
     <string name="avatar_picker_title">プロフィール写真を選択</string>
@@ -1120,7 +1120,7 @@ Calls, messages, and network traffic may be visible to your organization."</stri
 
 Any apps listed here aren't required for your device to function normally. You can uninstall apps you don't want."</string>
     <string name="background_install_title">Apps installed in the background</string>
-    <string name="background_install_uninstall_button_description">Uninstall app</string>
+    <string name="background_install_uninstall_button_description">アプリをアンインストール</string>
     <string name="background_process_stop_description">以前のアプリのプロセスです。再度必要になった場合に備えてまだ実行中です。通常は停止する必要はありません。</string>
     <string name="background_restrict_app_dialog_message">このアプリのバックグラウンドでのネットワークアクセスを制限すると、メッセージの受信やコンテンツのダウンロードができなくなるなど、アプリが正常に動作しなくなる可能性があります。制限してもよろしいですか？</string>
     <string name="background_traffic">バックグラウンド %s</string>
@@ -1216,7 +1216,7 @@ Any apps listed here aren't required for your device to function normally. You c
     <string name="battery_info_screen_on">画面オン時間：</string>
     <string name="battery_info_status_charging">充電中</string>
     <string name="battery_info_status_charging_ac">ACで充電中</string>
-    <string name="battery_info_status_charging_dock">Charging</string>
+    <string name="battery_info_status_charging_dock">充電中</string>
     <string name="battery_info_status_charging_fast">高速充電中</string>
     <string name="battery_info_status_charging_slow">低速充電中</string>
     <string name="battery_info_status_charging_usb">USBで充電中</string>
@@ -1365,16 +1365,16 @@ Any apps listed here aren't required for your device to function normally. You c
     <string name="battery_used_by">%1$s: %2$s</string>
     <string name="bcast_audio_sync_state">Audio Sync status</string>
     <string name="bcast_enable_audio_sync">Audio sync</string>
-    <string name="bcast_enable_metadata_sync">Metadata sync</string>
-    <string name="bcast_info_update">Update Source Info</string>
-    <string name="bcast_metadata_sync_state">Metadata Sync status</string>
+    <string name="bcast_enable_metadata_sync">メタデータの同期</string>
+    <string name="bcast_info_update">ソース情報を更新</string>
+    <string name="bcast_metadata_sync_state">メタデータ同期の状態</string>
     <string name="bcast_sink_volume_title">Broadcast sink volume</string>
-    <string name="bcast_source_address">Broadcast Source Device</string>
-    <string name="bcast_source_enc_status">Encryption Status</string>
-    <string name="bcast_source_info_sid">Broadcast Source Id</string>
-    <string name="bcast_source_metadata">Metadata</string>
+    <string name="bcast_source_address">ブロードキャストのソースデバイス</string>
+    <string name="bcast_source_enc_status">暗号化の状態</string>
+    <string name="bcast_source_info_sid">ブロードキャストソース ID</string>
+    <string name="bcast_source_metadata">メタデータ</string>
     <string name="bcast_update_code_summary">Add broadcast code here, and click Update Broadcast Source Info</string>
-    <string name="bcast_update_code_title">Update Broadcast code</string>
+    <string name="bcast_update_code_title">ブロードキャストコードを更新</string>
     <string name="bear_mismatch">Carrier will be hidden due to network mismatch</string>
     <string name="bearer">ベアラー</string>
     <string name="beauty_camera">ビデオ通話のビューティ</string>
@@ -1553,17 +1553,17 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_ble_audio_stop_synchronize_confirmed">确定</string>
     <string name="bluetooth_ble_audio_stop_synchronize_message">停止后，耳机将无法收听到蓝牙广播音频</string>
     <string name="bluetooth_ble_audio_stop_synchronize_title">停止音频同步</string>
-    <string name="bluetooth_broadcast">Broadcast</string>
-    <string name="bluetooth_broadcast_audio">Broadcast audio</string>
-    <string name="bluetooth_broadcast_audio_dialog_title">Start broadcasting</string>
-    <string name="bluetooth_broadcast_audio_onlysource">Broadcast audio from this device</string>
+    <string name="bluetooth_broadcast">ブロードキャスト</string>
+    <string name="bluetooth_broadcast_audio">オーディオをブロードキャスト</string>
+    <string name="bluetooth_broadcast_audio_dialog_title">ブロードキャストを停止</string>
+    <string name="bluetooth_broadcast_audio_onlysource">このデバイスからオーディオをブロードキャストする</string>
     <string name="bluetooth_broadcast_audio_sharing">蓝牙共享广播</string>
     <string name="bluetooth_broadcast_audio_started_toast">"Don't forget to stop broadcasting in time. Audio broadcasts drain battery."</string>
     <string name="bluetooth_broadcast_audio_summary">Share audio with nearby devices via Bluetooth</string>
     <string name="bluetooth_broadcast_audio_summary_disable">没有连接支持蓝牙广播的设备</string>
     <string name="bluetooth_broadcast_audio_switch_summary">关闭蓝牙共享广播</string>
     <string name="bluetooth_broadcast_audio_switch_title">蓝牙共享广播</string>
-    <string name="bluetooth_broadcast_code">"Password: "</string>
+    <string name="bluetooth_broadcast_code">"パスワード: "</string>
     <string name="bluetooth_broadcast_dialog_broadcast_app">%1$s をブロードキャスト</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">近くにあるデバイスにメディアをブロードキャストするか、または他のユーザーのブロードキャストを聴きます</string>
     <string name="bluetooth_broadcast_dialog_find_message">近くで再生されているブロードキャストを聴きます</string>
@@ -1617,16 +1617,16 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_device_advanced_profile_header_title">使用目的</string>
     <string name="bluetooth_device_advanced_rename_device">名前を変更</string>
     <string name="bluetooth_device_advanced_title">ペア設定したBluetoothデバイス</string>
-    <string name="bluetooth_device_audio_share_connecting">Connecting…</string>
+    <string name="bluetooth_device_audio_share_connecting">接続中…</string>
     <string name="bluetooth_device_audio_share_message">"Share this device's audio with this pair of earphones"</string>
     <string name="bluetooth_device_blacklist_tital">Bluetoothブロックリスト</string>
     <string name="bluetooth_device_button_accept">OK</string>
-    <string name="bluetooth_device_button_accept_permission">Agree</string>
+    <string name="bluetooth_device_button_accept_permission">同意する</string>
     <string name="bluetooth_device_button_audio_share_success">Got it</string>
-    <string name="bluetooth_device_button_cancel">Cancel</string>
-    <string name="bluetooth_device_button_enable_audio_share">Share</string>
-    <string name="bluetooth_device_button_reject_permission">"Don't agree"</string>
-    <string name="bluetooth_device_button_replace_current_device">Switch device</string>
+    <string name="bluetooth_device_button_cancel">キャンセル</string>
+    <string name="bluetooth_device_button_enable_audio_share">共有</string>
+    <string name="bluetooth_device_button_reject_permission">"同意しない"</string>
+    <string name="bluetooth_device_button_replace_current_device">デバイスを切り替える</string>
     <string name="bluetooth_device_context_connect">接続</string>
     <string name="bluetooth_device_context_connect_advanced">オプション...</string>
     <string name="bluetooth_device_context_disconnect">接続を解除</string>
@@ -1638,7 +1638,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_device_controls_summary">Shortcut, hearing aid compatibility</string>
     <string name="bluetooth_device_controls_title">Hearing device settings</string>
     <string name="bluetooth_device_details">デバイスの設定</string>
-    <string name="bluetooth_device_keyboard_settings_preference_title">Keyboard settings</string>
+    <string name="bluetooth_device_keyboard_settings_preference_title">キーボードの設定</string>
     <string name="bluetooth_device_mac_address">"デバイスの Bluetooth アドレス: %1$s"</string>
     <string name="bluetooth_device_misc_title">使用頻度の低いデバイス</string>
     <string name="bluetooth_device_name">"名前："</string>
@@ -1702,7 +1702,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_enter_passkey_other_device">もう一方のデバイスでも、このパスキーの入力が必要な場合があります。</string>
     <string name="bluetooth_enter_pin_other_device">もう一方のデバイスでも、このPINの入力が必要な場合があります。</string>
     <string name="bluetooth_error_title"></string>
-    <string name="bluetooth_fastConnect_key_device_id">Device Id</string>
+    <string name="bluetooth_fastConnect_key_device_id">デバイス ID</string>
     <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect resource load</string>
     <string name="bluetooth_find_broadcast">ブロードキャストを探す</string>
     <string name="bluetooth_find_broadcast_button_leave">ブロードキャストを終了</string>
@@ -2153,7 +2153,7 @@ aptX Adaptive：コーデックモード"</string>
     <string name="builtin_keyboard_settings_title">物理キーボード</string>
     <string name="button_disconnect_network">ネットワークから切断</string>
     <string name="button_height_text">一般的な確認ボタン (例：\"OK\"、\"完了\")</string>
-    <string name="button_label_confirmation_of_system_locale_change">Change</string>
+    <string name="button_label_confirmation_of_system_locale_change">変更</string>
     <string name="button_light_timeout">ボタンライトの点灯を維持</string>
     <string name="button_navigation_settings_activity_title">ボタン ナビゲーション</string>
     <string name="button_normal_text">通常のボタン</string>
@@ -2194,8 +2194,8 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="call_manager_summary">%1$s</string>
     <string name="call_manager_title">通話マネージャ</string>
     <string name="call_notification_answer_action">Answer</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_answer_video_action">動画</string>
+    <string name="call_notification_decline_action">拒否</string>
     <string name="call_notification_hang_up_action">Hang Up</string>
     <string name="call_notification_incoming_text">Incoming call</string>
     <string name="call_notification_ongoing_text">Ongoing call</string>
@@ -2295,7 +2295,7 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="carrier_wifi_network_title">W+ ネットワーク</string>
     <string name="carrier_wifi_offload_summary">速度と通信範囲を改善するために W+ ネットワークの使用を Google Fi に許可する</string>
     <string name="carrier_wifi_offload_title">W+ 接続</string>
-    <string name="category_clone">Clone</string>
+    <string name="category_clone">クローン</string>
     <string name="category_name_appearance">デザイン</string>
     <string name="category_name_brightness">明るさ</string>
     <string name="category_name_color">カラー</string>
@@ -2318,7 +2318,7 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="cell_data_warning">警告するデータ使用量: ^1</string>
     <string name="cell_data_warning_and_limit">データ警告: ^1 / データ上限: ^2</string>
     <string name="cellular_data_usage">モバイルデータ使用量</string>
-    <string name="cellular_network_title">Cellular network debugging</string>
+    <string name="cellular_network_title">セルラーネットワークのデバッグ</string>
     <string name="celsius_temperature_unit">Celsius (°C)</string>
     <string name="cert_not_installed">証明書はインストールされませんでした</string>
     <string name="certificate_management_app">証明書管理アプリ</string>
@@ -2570,8 +2570,8 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="color_orange">オレンジ</string>
     <string name="color_purple">パープル</string>
     <string name="color_red">赤</string>
-    <string name="color_selector_dialog_cancel">Cancel</string>
-    <string name="color_selector_dialog_done">Done</string>
+    <string name="color_selector_dialog_cancel">キャンセル</string>
+    <string name="color_selector_dialog_done">完了</string>
     <string name="color_temperature">寒色の色温度</string>
     <string name="color_temperature_desc">寒色の表示色を使用します</string>
     <string name="color_temperature_toast">色の変更を適用するには、画面を OFF にしてください</string>
@@ -2701,7 +2701,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="connected_device_previously_connected_screen_title">ペア設定済み</string>
     <string name="connected_device_saved_title">保存済みのデバイス</string>
     <string name="connected_device_see_all_summary">Bluetooth が ON になります</string>
-    <string name="connected_devices_confirm">Save</string>
+    <string name="connected_devices_confirm">保存</string>
     <string name="connected_devices_create">Add</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth、Android Auto、NFC</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth、Android Auto</string>
@@ -2746,7 +2746,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="contrast_high">High</string>
     <string name="contrast_medium">Medium</string>
     <string name="contrast_standard">Standard</string>
-    <string name="contrast_title">Contrast</string>
+    <string name="contrast_title">コントラスト</string>
     <string name="contributors_title">スタッフクレジット</string>
     <string name="control_center">コントロールセンター</string>
     <string name="control_center_force_use_panel_guide_text">ステータスバーを左側からプルダウンすると、通知が表示されます。右側からプルダウンすると、コントロールセンターが表示されます。また、左右にスワイプすることで、これらを切り替えることができます。</string>
@@ -2767,7 +2767,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="conversation_section_switch_title">会話セクション</string>
     <string name="conversation_settings_clear_recents">最近の会話を消去</string>
     <string name="conversations_category_title">会話</string>
-    <string name="convert_to_esim_title">Convert to eSIM</string>
+    <string name="convert_to_esim_title">eSIM に変換</string>
     <string name="convert_to_file_encryption_done">null</string>
     <string name="convo_not_supported_summary">%1$s はほとんどの会話機能に対応していません。会話の優先度を高く設定することはできず、会話はバブルとして表示されません。</string>
     <string name="cool_color">寒色</string>
@@ -3052,7 +3052,7 @@ Googleアカウントなど、アカウントによっては、スマートフ�
     <string name="date_input_invalid_not_allowed">Date not allowed: %1$s</string>
     <string name="date_input_invalid_year_range">Date out of expected year range %1$s - %2$s</string>
     <string name="date_input_label">Date</string>
-    <string name="date_input_no_input_description">None</string>
+    <string name="date_input_no_input_description">なし</string>
     <string name="date_input_title">Select date</string>
     <string name="date_picker_headline">Selected date</string>
     <string name="date_picker_headline_description">Current selection: %1$s</string>
@@ -3227,7 +3227,7 @@ Googleアカウントなど、アカウントによっては、スマートフ�
     <string name="device_cpu6_info">ヘキサコア</string>
     <string name="device_cpu8_info">オクタコア</string>
     <string name="device_description_battery">バッテリー容量</string>
-    <string name="device_description_camera">Rear camera</string>
+    <string name="device_description_camera">リアカメラ</string>
     <string name="device_description_cpu">CPU</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">解像度</string>
@@ -3242,7 +3242,7 @@ Googleアカウントなど、アカウントによっては、スマートフ�
     <string name="device_ime_keyboard_pad">タブレットのキーボード</string>
     <string name="device_info_default">不明</string>
     <string name="device_info_not_available">該当なし</string>
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">タップをして情報を表示</string>
     <string name="device_internal_memory">内部ストレージ</string>
     <string name="device_mall_card_title">利用可能な特典を確認</string>
     <string name="device_mall_card_title_new">本机权益</string>
@@ -3507,7 +3507,7 @@ Please send this code to the technician."</string>
     <string name="dream_preview_button_title">プレビュー</string>
     <string name="dream_setup_description">タブレットが装着されているときに画面に表示するものを選択してください。スクリーン セーバーを使用すると、デバイスの電力使用量が増えることがあります。</string>
     <string name="dream_setup_title">スクリーン セーバーの選択</string>
-    <string name="dropdown_menu">Dropdown menu</string>
+    <string name="dropdown_menu">ドロップダウンメニュー</string>
     <string name="dsda_switch_summary">両方のSIMカードでモバイルデータ通信と通話を同時に利用可能です</string>
     <string name="dsda_switch_title">デュアルアクティブモード</string>
     <string name="dsds_activation_failure_body_msg2">SIM をもう一度 ON にしてみてください。問題が解決しない場合は、デバイスを再起動してください。</string>
@@ -3517,7 +3517,7 @@ Please send this code to the technician."</string>
     <string name="dsu_is_running">DSUを実行中</string>
     <string name="dsu_loader_description">Dynamic System Update Imageを読み込む</string>
     <string name="dsu_loader_loading">読み込み中…</string>
-    <string name="dsu_loader_title">DSU Loader</string>
+    <string name="dsu_loader_title">DSU ローダー</string>
     <string name="dtmf_tone_enable_title">ダイヤルパッド操作音</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">SIM の組み合わせ</string>
     <string name="dual_cdma_sim_warning_notification_summary">%1$s を使用すると、機能が制限されることがあります。タップして詳細をご確認ください。</string>
@@ -3670,11 +3670,11 @@ Please send this code to the technician."</string>
     <string name="enable_verbose_vendor_logging_summary">バグレポートにデバイス固有のベンダーログを追加すると、個人情報が含まれていたり、バッテリーやストレージの使用量が増えたりすることがあります。</string>
     <string name="enable_wifi_display">ワイヤレスディスプレイ</string>
     <string name="enabled">オン</string>
-    <string name="enabled_5g_mode_title">Enable 5G</string>
+    <string name="enabled_5g_mode_title">5G を有効化</string>
     <string name="enabled_authorised_apps_summary">個々のアプリのスイッチを切り替えると承認が撤回されます。</string>
     <string name="enabled_authorised_apps_title">付与した承認</string>
     <string name="enabled_by_admin">管理者によって有効にされています</string>
-    <string name="enabled_locales_keyboard_layout">Layout</string>
+    <string name="enabled_locales_keyboard_layout">レイアウト</string>
     <string name="enalbe_identify_iPhone">デバイス識別</string>
     <string name="encrypt_talkback_dialog_message_password">"パスワードを入力してこのデバイスを開始する場合、%1$sのようなユーザー補助サービスはまだご利用になれません。"</string>
     <string name="encrypt_talkback_dialog_message_pattern">"パターンを入力してこのデバイスを開始しても、%1$sのようなユーザー補助サービスはまだご利用になれません。"</string>
@@ -4109,7 +4109,7 @@ Please send this code to the technician."</string>
     <string name="flash_notifications_intro_without_camera_flash">Flash the screen when you receive notifications or when alarms sound</string>
     <string name="flash_notifications_keywords">flash, light, hard of hearing, hearing loss</string>
     <string name="flash_notifications_note">"\"Beam for notifications\" visualizes notification sounds and ringtones using camera flash and screen. If you're sensitive to light, use this feature with caution."</string>
-    <string name="flash_notifications_preview">Preview</string>
+    <string name="flash_notifications_preview">プレビュー</string>
     <string name="flash_notifications_summary">Use camera flash or show color beams on the screen as notifications arrive or device is ringing</string>
     <string name="flash_notifications_summary_off">Off</string>
     <string name="flash_notifications_summary_on_camera">On / Camera flash</string>
@@ -4390,7 +4390,7 @@ Please send this code to the technician."</string>
     <string name="gesture_title_notifications">View notifications &amp; Quick Settings</string>
     <string name="gesture_title_recent_apps">View recent apps</string>
     <string name="gesture_title_switch_apps">Switch apps</string>
-    <string name="gesture_to_split_screen">Gestures</string>
+    <string name="gesture_to_split_screen">ジェスチャー</string>
     <string name="gesture_wakeup_summary">ダブルタップして画面をオフにする機能は、デフォルトおよびクラシックテーマのロック画面でのみ有効です</string>
     <string name="gesture_wakeup_title">ダブルタップしてスリープ解除または画面をオフにする</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -4422,7 +4422,7 @@ Please send this code to the technician."</string>
     <string name="grant_admin">Yes, make them an admin</string>
     <string name="graphics_driver_all_apps_preference_title">すべてのアプリで有効</string>
     <string name="graphics_driver_app_preference_default">デフォルト</string>
-    <string name="graphics_driver_app_preference_prerelease_driver">Developer Driver</string>
+    <string name="graphics_driver_app_preference_prerelease_driver">開発者ドライバ</string>
     <string name="graphics_driver_app_preference_production_driver">ゲームドライバ</string>
     <string name="graphics_driver_app_preference_system">システムのグラフィックス ドライバ</string>
     <string name="graphics_driver_app_preference_title">グラフィックス ドライバの選択</string>
@@ -4450,19 +4450,19 @@ Please send this code to the technician."</string>
     <string name="groupaudio_unpair_dialog_forget_confirm_button">グループを忘れる</string>
     <string name="groupaudio_unpair_dialog_title">グループを忘れますか？</string>
     <string name="gsm_to_wifi_connect_type_title">GSMからWi-Fi</string>
-    <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
-    <string name="gsm_umts_network_preferences_title">Network Mode</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">ネットワークモード</string>
+    <string name="gsm_umts_network_preferences_title">ネットワークモード</string>
     <string name="guest_category_title">Guest (You)</string>
-    <string name="guest_exit_button">Exit guest mode</string>
-    <string name="guest_exit_clear_data_button">Delete</string>
-    <string name="guest_exit_dialog_button">Exit</string>
+    <string name="guest_exit_button">ゲストモードを終了</string>
+    <string name="guest_exit_clear_data_button">削除</string>
+    <string name="guest_exit_dialog_button">終了</string>
     <string name="guest_exit_dialog_message">This will delete apps and data from the current guest session</string>
     <string name="guest_exit_dialog_message_non_ephemeral">You can save activity from the current session or delete all apps and data</string>
     <string name="guest_exit_dialog_title">Exit guest mode?</string>
     <string name="guest_exit_dialog_title_non_ephemeral">Save guest activity?</string>
     <string name="guest_exit_guest">ゲストを削除</string>
-    <string name="guest_exit_quick_settings_button">Exit</string>
-    <string name="guest_exit_save_data_button">Save</string>
+    <string name="guest_exit_quick_settings_button">終了</string>
+    <string name="guest_exit_save_data_button">保存</string>
     <string name="guest_new_guest">ゲストを追加</string>
     <string name="guest_notification_ephemeral">All activity will be deleted on exit</string>
     <string name="guest_notification_non_ephemeral">You can save or delete your activity on exit</string>
@@ -4535,7 +4535,7 @@ Please send this code to the technician."</string>
     <string name="handle_ota_connect_first">Connect grip</string>
     <string name="handle_ota_finish_fw">Updated successfully</string>
     <string name="handle_ota_update_failed">"Couldn't update"</string>
-    <string name="handle_ota_update_title">Firmware updates</string>
+    <string name="handle_ota_update_title">ファームウェアのアップデート</string>
     <string name="handle_ota_updating_firmware">Just a sec…</string>
     <string name="handle_ota_updating_tip">Updating in the background…</string>
     <string name="handy_mode">片手操作モード</string>
@@ -4788,7 +4788,7 @@ Please send this code to the technician."</string>
     <string name="homepage_condition_footer_content_description">折りたたむ</string>
     <string name="hourly_battery_usage_chart">Hourly battery usage chart</string>
     <string name="hover_mode_guide_text">When the inner screen is taking a call or playing videos, you can use Hover mode on the bottom half of the screen.</string>
-    <string name="hover_mode_name">Hover mode</string>
+    <string name="hover_mode_name">ホバーモード</string>
     <string name="hover_mode_no_support_apps">No supported apps</string>
     <string name="hover_mode_support_apps">Supported apps</string>
     <string name="how_adjust_font_size">文字サイズの調整方法は？</string>
@@ -4902,7 +4902,7 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="input_method_function_switch_keyboard_language_des">タップして入力言語を切り替えます</string>
     <string name="input_method_function_switch_keyboard_type">キーボードを切り替える</string>
     <string name="input_method_function_switch_keyboard_type_des">タップしてキーボードを切り替えます</string>
-    <string name="input_method_function_voice">Voice input</string>
+    <string name="input_method_function_voice">音声入力</string>
     <string name="input_method_function_voice_des">Tap to use voice input</string>
     <string name="input_method_function_xiaoai">Mi AI voice input</string>
     <string name="input_method_function_xiaoai_des">Tap to use Mi AI voice input</string>
@@ -5025,7 +5025,7 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="key_system_control">システム制御</string>
     <string name="keyboard_and_input_methods_category">キーボード</string>
     <string name="keyboard_assistance_category">キーボード補助機能</string>
-    <string name="keyboard_default_layout">Default</string>
+    <string name="keyboard_default_layout">デフォルト</string>
     <string name="keyboard_disconnected">未接続</string>
     <string name="keyboard_funtion_key">ファンクションキー</string>
     <string name="keyboard_layout_default_label">デフォルト</string>
@@ -5035,10 +5035,10 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="keyboard_layout_picker_category_title">Physical keyboard layouts</string>
     <string name="keyboard_layout_picker_title">キーボードレイアウト</string>
     <string name="keyboard_mouse_touch">キーボード、マウス、タッチパッド</string>
-    <string name="keyboard_options_category">Options</string>
+    <string name="keyboard_options_category">オプション</string>
     <string name="keyboard_select">サイズを調整</string>
     <string name="keyboard_select_summary">キーボードの大きさをグリップに合わせて調整します</string>
-    <string name="keyboard_settings">Keyboard</string>
+    <string name="keyboard_settings">キーボード</string>
     <string name="keyboard_settings_category">入力方式</string>
     <string name="keyboard_settings_summary">On-screen keyboard, tools</string>
     <string name="keyboard_settings_title">Androidキーボード</string>
@@ -5238,7 +5238,7 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="language_picker_title">言語</string>
     <string name="language_settings">言語と入力</string>
     <string name="languages_setting_summary">System languages, app languages, speech</string>
-    <string name="languages_settings">Languages</string>
+    <string name="languages_settings">言語</string>
     <string name="last_synced">最終同期日時: %1$s</string>
     <string name="last_time_used_label">前回の使用</string>
     <string name="lattice_smartcover_title">格子のフロントカバー</string>
@@ -5499,7 +5499,7 @@ Xiaomi Cloudを開き、そこからアイテムを復元します。"</string>
     <string name="lock_screen_notifs_show_all_summary">デフォルトとサイレントの会話と通知を表示する</string>
     <string name="lock_screen_notifs_show_none">通知を表示しない</string>
     <string name="lock_screen_notifs_title">ロック画面上の通知</string>
-    <string name="lock_screen_now">Lock screen</string>
+    <string name="lock_screen_now">ロック画面</string>
     <string name="lock_screen_password_skip_biometrics_message">"顔認証と指紋認証を設定するにはパスワードが必要です。
 
 パスワードは、紛失したり盗難に遭ったりした場合にスマートフォンを保護するものです。"</string>
@@ -5990,8 +5990,8 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="memtag_reboot_message_off">"You'll need to restart your device to turn off Advanced memory protection."</string>
     <string name="memtag_reboot_message_on">"You'll need to restart your device to turn on Advanced memory protection."</string>
     <string name="memtag_reboot_no">Not now</string>
-    <string name="memtag_reboot_title">Restart device?</string>
-    <string name="memtag_reboot_yes">Restart</string>
+    <string name="memtag_reboot_title">デバイスを再起動しますか?</string>
+    <string name="memtag_reboot_yes">再起動</string>
     <string name="memtag_title">Advanced memory protection beta</string>
     <string name="memtag_toggle">Advanced memory protection</string>
     <string name="menu_cancel">キャンセル</string>
@@ -6471,17 +6471,17 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="modern_control_center_desc">左側のステータスバーをプルダウンして通知を表示します。右側のステータスバーをプルダウンしてコントロールセンターを開きます。</string>
     <string name="modern_control_center_title">新しいバージョン</string>
     <string name="modifier_keys_alt">Alt</string>
-    <string name="modifier_keys_cancel">Cancel</string>
-    <string name="modifier_keys_caps_lock">Caps lock</string>
+    <string name="modifier_keys_cancel">キャンセル</string>
+    <string name="modifier_keys_caps_lock">Caps Lock</string>
     <string name="modifier_keys_ctrl">Ctrl</string>
-    <string name="modifier_keys_default_summary">Default</string>
-    <string name="modifier_keys_done">Done</string>
-    <string name="modifier_keys_meta">Action key</string>
+    <string name="modifier_keys_default_summary">デフォルト</string>
+    <string name="modifier_keys_done">完了</string>
+    <string name="modifier_keys_meta">アクションキー</string>
     <string name="modifier_keys_picker_summary">Choose a new key for %1$s:</string>
     <string name="modifier_keys_picker_title">Choose modifier key</string>
-    <string name="modifier_keys_reset">Reset</string>
+    <string name="modifier_keys_reset">リセット</string>
     <string name="modifier_keys_reset_message">Are you sure you would like to reset all the modifier keys to their default?</string>
-    <string name="modifier_keys_reset_title">Reset all</string>
+    <string name="modifier_keys_reset_title">すべてリセット</string>
     <string name="modifier_keys_settings">Modifier keys</string>
     <string name="modifier_keys_settings_summary">Change the behavior of keys</string>
     <string name="modify_default_browser_message">サードパーティのアプリをデフォルトのブラウザーに設定すると、閲覧履歴やその他のデータの収集が開始されることがあります。設定してもよろしいですか？</string>
@@ -6800,7 +6800,7 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="network_timeout_info">"ネットワークに接続できませんでした。もう一度お試しください。"</string>
     <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
-    <string name="networkid_label">Network ID:</string>
+    <string name="networkid_label">ネットワーク ID:</string>
     <string name="networks_available">ネットワークが利用できます</string>
     <string name="networks_title">モバイルネットワーク</string>
     <string name="never">しない</string>
@@ -6811,7 +6811,7 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">キャンセル</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">追加</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">指紋を追加</string>
-    <string name="next">Next</string>
+    <string name="next">次へ</string>
     <string name="next_button_label">次へ</string>
     <string name="next_label">次へ</string>
     <string name="next_page_content_description">次へ</string>
@@ -6857,7 +6857,7 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="nfc_payment_use_default_dialog">デフォルトの決済アプリを使用する</string>
     <string name="nfc_quick_toggle_summary">他のデバイスに接触したときにデータ交換を許可する</string>
     <string name="nfc_quick_toggle_title">NFC</string>
-    <string name="nfc_reboot_dialog_confirm">Restart</string>
+    <string name="nfc_reboot_dialog_confirm">再起動</string>
     <string name="nfc_reboot_dialog_message">Detail NFC logging is intended for development purposes only. Additional NFC data is included in bug reports, which may contain private information. Restart your device to change this setting.</string>
     <string name="nfc_reboot_dialog_title">Restart Device?</string>
     <string name="nfc_repair_action_btn">復元</string>
@@ -7212,7 +7212,7 @@ If this permission is denied, the system will limit how long the app can perform
     <string name="operation_guide_title">チュートリアル</string>
     <string name="operator_warning">デバイスで記録されるデータ使用量と携帯通信会社のデータ使用量は異なる場合があります</string>
     <string name="optimization_cancel">キャンセル</string>
-    <string name="os_version">OS Version</string>
+    <string name="os_version">OS のバージョン</string>
     <string name="osu_completing_sign_up">登録を完了中…</string>
     <string name="osu_connect_failed">"接続できません"</string>
     <string name="osu_opening_provider">%1$sを開いています</string>
@@ -7402,7 +7402,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
-    <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
+    <string name="photography_handle_quick_launch_camera_title">クイック起動</string>
     <string name="photography_handle_title">Camera grip</string>
     <string name="physical_keyboard_title">物理キーボード</string>
     <string name="pick_up_gesture_wakeup_title">持ち上げてスリープ解除</string>
@@ -7482,14 +7482,14 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="power_menu_long_press_for_assist_sensitivity_summary">長さを選択して感度を調整し、電源ボタンを長押しします。</string>
     <string name="power_menu_long_press_for_assist_sensitivity_title">長押しの長さ</string>
     <string name="power_menu_long_press_for_assistant_title">Digital assistant</string>
-    <string name="power_menu_long_press_for_power_menu_title">Power menu</string>
+    <string name="power_menu_long_press_for_power_menu_title">電源メニュー</string>
     <string name="power_menu_power_prevent_ringing_hint">"着信音のミュート:
 音量メニューでショートカットを利用できます。"</string>
     <string name="power_menu_power_volume_up_hint">"電源ボタンと緊急通報のメニュー:
 電源ボタンと音量大ボタンを同時に押してください。"</string>
     <string name="power_menu_setting_name">電源ボタンを長押し</string>
-    <string name="power_menu_summary_long_press_for_assistant">Access digital assistant</string>
-    <string name="power_menu_summary_long_press_for_power_menu">Access power menu</string>
+    <string name="power_menu_summary_long_press_for_assistant">デジタルアシスタントにアクセス</string>
+    <string name="power_menu_summary_long_press_for_power_menu">電源メニューにアクセス</string>
     <string name="power_menu_under_keyguard_summary">ロック画面で電源メニューへのアクセスを許可します</string>
     <string name="power_menu_under_keyguard_title">電源メニューへのアクセス</string>
     <string name="power_mgr">バッテリーの最適化</string>
@@ -7678,7 +7678,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="priority_summary">リストの一番上に通知を表示する</string>
     <string name="priority_title">優先度</string>
     <string name="privacy_advanced_settings">プライバシーの詳細設定</string>
-    <string name="privacy_and_security">Privacy &amp; security</string>
+    <string name="privacy_and_security">プライバシーとセキュリティ</string>
     <string name="privacy_authorize_cloud_msg">"アカウントのセキュリティを確保するため、Xiaomi Cloudサービス（同期やバックアップを含む）への承認を撤回する場合は i.mi.com にサインインしてください。"</string>
     <string name="privacy_authorize_dialog_agree">同意</string>
     <string name="privacy_authorize_dialog_exit">終了</string>
@@ -7709,7 +7709,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="privacy_failed_need_to_unlock_nofingerprint">新しい指紋を使用する前にパスワードを入力してください</string>
     <string name="privacy_file">ファイル</string>
     <string name="privacy_gallery">写真</string>
-    <string name="privacy_header">Privacy</string>
+    <string name="privacy_header">プライバシー</string>
     <string name="privacy_header_text_less_than_half">小さすぎます。もう少しドラッグしてください。</string>
     <string name="privacy_input_mode">Secure input</string>
     <string name="privacy_input_mode_img_detail">Works with keyboards authorized by Xiaomi</string>
@@ -7776,7 +7776,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="private_dns_mode_provider_exposed_hostname">Discoverable</string>
     <string name="private_dns_mode_provider_failure">"接続できません"</string>
     <string name="private_dns_mode_provider_hostname_hint">DNSプロバイダーのホスト名を入力</string>
-    <string name="private_dns_title">Private DNS</string>
+    <string name="private_dns_title">プライベート DNS</string>
     <string name="private_gallery_need_to_unlock">パスワードを入力してください</string>
     <string name="private_gallery_recording_intro_header">ロック解除パターンを入力</string>
     <string name="private_gallery_reset_by_account">パスワードをリセットするには、Xiaomi アカウントにサインインしてください。</string>
@@ -7938,7 +7938,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="regulatory_labels">規制ラベル</string>
     <string name="remaining_length_format">残り%1$s</string>
     <string name="remote_media_volume_option_title">キャストの音量</string>
-    <string name="remove">Remove</string>
+    <string name="remove">削除</string>
     <string name="remove_account_failed">"この変更は管理者によって許可されていません"</string>
     <string name="remove_account_label">アカウントを削除</string>
     <string name="remove_and_uninstall_device_admin">無効にしてアンインストール</string>
@@ -8621,7 +8621,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="security_encryption_title">ロック画面パスワードを使用してデバイスを暗号化する</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">画面ロック オプションは無効になっています。詳しくは、組織の管理者にお問い合わせください。</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">購入やアプリアクセスの許可には指紋を使用できます。</string>
-    <string name="security_header">Security</string>
+    <string name="security_header">セキュリティ</string>
     <string name="security_input">セキュリティキーボード</string>
     <string name="security_input_enable">セキュリティキーボード</string>
     <string name="security_input_hint">パスワードを入力する際は、セキュリティキーボードを使用してください</string>
@@ -8920,7 +8920,7 @@ Move your finger slightly each time. This helps capture more of your fingerprint
     <string name="selected">Selected</string>
     <string name="send">送信</string>
     <string name="send_diagnosis_log">Send diagnosis log</string>
-    <string name="sending">Sending…</string>
+    <string name="sending">送信中…</string>
     <string name="sensor_toggle_description">すべてのアプリとサービスに使用</string>
     <string name="sensors_hal_log_summary">Use logs for the Sensors Hardware Abstraction Layer</string>
     <string name="sensors_hal_log_title">Sensors HAL logs</string>
