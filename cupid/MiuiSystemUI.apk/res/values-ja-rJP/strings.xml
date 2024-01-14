@@ -1099,7 +1099,7 @@
     <string name="keyguard_indication_charging_time_wireless">%2$s • ワイヤレス充電中 • 完了まで %1$s</string>
     <string name="keyguard_indication_trust_unlocked">信頼エージェントがロック解除を管理</string>
     <string name="keyguard_left_mi_wallet">Mi ウォレット</string>
-    <string name="keyguard_left_remotecentral">Mi Remote</string>
+    <string name="keyguard_left_remotecentral">Mi リモート</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">ライト</string>
     <string name="keyguard_left_view_lock_wallpaper">壁紙カルーセル</string>
