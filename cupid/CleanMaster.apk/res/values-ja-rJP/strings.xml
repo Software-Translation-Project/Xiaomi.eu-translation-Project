@@ -128,9 +128,9 @@
     <string name="auto_clean_time_every_day">毎日</string>
     <string name="auto_cleaner_open">オンにする</string>
     <string name="back">戻る</string>
-    <string name="be_figuring">Calculating…</string>
-    <string name="browser_scan_history_desc">Browser History</string>
-    <string name="browser_search_history_desc">Searched items</string>
+    <string name="be_figuring">計算中...</string>
+    <string name="browser_scan_history_desc">ブラウザの履歴</string>
+    <string name="browser_search_history_desc">検索されたアイテム</string>
     <string name="btn_text_done">完了</string>
     <string name="btn_text_quick_cleanup">クリーンアップ</string>
     <string name="btn_text_quick_cleanup_apk">選択したAPK%1$sを削除する</string>
@@ -439,7 +439,7 @@
     <string name="facebook_clean_exit_confirm_title">スキャンを停止しますか？</string>
     <string name="facebook_cleaner">Facebook クリーナー</string>
     <string name="facebook_function_summery">Clear the items cached by Facebook</string>
-    <string name="facebook_function_title">Facebook cleaner</string>
+    <string name="facebook_function_title">Facebookクリーナー</string>
     <string name="facebook_group_cache">キャッシュファイル</string>
     <string name="facebook_group_gif">GIF</string>
     <string name="facebook_group_image">画像</string>
