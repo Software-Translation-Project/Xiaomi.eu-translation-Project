@@ -88,23 +88,23 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="arr_prompt_label">
-        <item>妥当</item>
-        <item>長い</item>
-        <item>長すぎる</item>
+        <item>Reasonable</item>
+        <item>Long</item>
+        <item>Too long</item>
     </string-array>
     <string-array name="arr_sedentary_reminder">
-        <item>動きましょう！</item>
-        <item>もっと詳しく知る</item>
-        <item>水分を補給して散歩してください。</item>
-        <item>もっと詳しく知る</item>
-        <item>階段を1段上りましょう</item>
-        <item>もっと詳しく知る</item>
-        <item>"長時間座ったままでいるのはやめましょう"</item>
-        <item>もっと詳しく知る</item>
+        <item>Time to move!</item>
+        <item>Learn more</item>
+        <item>Drink some water and take a walk.</item>
+        <item>Learn more</item>
+        <item>Climb a flight of stairs</item>
+        <item>Learn more</item>
+        <item>"Don't sit for too long"</item>
+        <item>Learn more</item>
     </string-array>
     <string-array name="arr_time_label">
-        <item>1時間</item>
-        <item>2時間</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
     </string-array>
     <string-array name="blood_types">
         <item>A</item>
@@ -319,9 +319,9 @@
         <item>O</item>
     </string-array>
     <string-array name="pager_titles">
-        <item>日</item>
-        <item>週</item>
-        <item>月</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
     </string-array>
     <string-array name="references">
         <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
@@ -378,10 +378,10 @@
         <item>Positive</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>制限なし</item>
-        <item>バックグラウンドアクティビティを制限する</item>
-        <item>10分後に停止する</item>
-        <item>しない</item>
+        <item>No restrictions</item>
+        <item>Limit background activity</item>
+        <item>Stop after 10 minutes</item>
+        <item>Never</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -464,22 +464,22 @@
         <item>@string/saturday_shortest</item>
     </string-array>
     <string-array name="week_label">
-        <item>日</item>
-        <item>月</item>
-        <item>火</item>
-        <item>水</item>
-        <item>木</item>
-        <item>金</item>
-        <item>土</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="week_short">
-        <item>日</item>
-        <item>月</item>
-        <item>火</item>
-        <item>水</item>
-        <item>木</item>
-        <item>金</item>
-        <item>土</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>
