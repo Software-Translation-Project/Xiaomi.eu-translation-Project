@@ -110,7 +110,7 @@
     <string name="chinese_symbol_animals_sheep">羊</string>
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
-    <string name="chip_text">Chip text</string>
+    <string name="chip_text">チップテキスト</string>
     <string name="choose_bluetooth_device">デバイスを選択</string>
     <string name="clear_text_end_icon_content_description">テキストを消去</string>
     <string name="clearable_edittext_clear_description">消去</string>
@@ -641,11 +641,11 @@
     <string name="sound_id_hz_low">低音 %dHz</string>
     <string name="sound_id_hz_media">中音 %dHz</string>
     <string name="sound_id_music_one_description">軽快 | %d秒</string>
-    <string name="sound_id_music_one_title">Rainy city</string>
+    <string name="sound_id_music_one_title">レイニーシティー</string>
     <string name="sound_id_music_three_description">メロディック | %d秒</string>
-    <string name="sound_id_music_three_title">Trace</string>
+    <string name="sound_id_music_three_title">トレース</string>
     <string name="sound_id_music_two_description">リズミカル | %d秒</string>
-    <string name="sound_id_music_two_title">Night fever</string>
+    <string name="sound_id_music_two_title">ナイトフィーバー</string>
     <string name="sound_id_no_effect_msg">"パーソナライズされたサウンドを使用しない"</string>
     <string name="sound_id_notice_headset_change_msg">"別のイヤホンを使用しているようです。テストは停止されました。"</string>
     <string name="sound_id_notice_headset_change_msg2">"別のイヤホンを使用しているようです。このパーソナライズされたサウンドがこのイヤホンと一致することを確認してください。"</string>
