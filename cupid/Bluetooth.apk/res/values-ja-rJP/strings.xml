@@ -35,7 +35,7 @@
     <string name="airplane_error_msg">"機内モードではBluetoothを使用できません。"</string>
     <string name="airplane_error_title">機内モード</string>
     <string name="am">午前</string>
-    <string name="androidx_startup">androidx.startup</string>
+    <string name="androidx_startup"></string>
     <string name="app_name">Bluetooth</string>
     <string name="aptx_notification_aptx">このデバイスは Qualcomm® aptX™ に対応しています</string>
     <string name="aptx_notification_aptx_adaptive">このデバイスは Qualcomm® aptX™ Adaptive に対応しています</string>
@@ -67,7 +67,7 @@
     <string name="bluetooth_opp_file_limit_exceeded">4 GB を超えるファイルは転送できません</string>
     <string name="bluetooth_rc_feat_content">高度なピア機能をサポートしています</string>
     <string name="bluetooth_rc_feat_subtext">ピアから再ペアリングをして有効化します</string>
-    <string name="bluetooth_rc_feat_title">Bluetooth メディアの参照</string>
+    <string name="bluetooth_rc_feat_title">Bluetoothメディアの参照</string>
     <string name="bluetooth_sap_notif_disconnect_button">接続を解除</string>
     <string name="bluetooth_sap_notif_disconnecting">クライアントの接続解除を待機しています</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">強制的に接続解除</string>
@@ -175,7 +175,7 @@
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">消去</string>
     <string name="close">閉じる</string>
-    <string name="close_broadcast_audio">Stop</string>
+    <string name="close_broadcast_audio">停止</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -296,7 +296,7 @@
     <string name="incoming_file_confirm_timeout_content">「%1$s」からのファイル受信中に接続がタイムアウトしました</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_title">ファイル転送</string>
-    <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
+    <string name="incoming_file_toast_msg">他のデバイスからのファイルを受信します。ファイルの受信を許可しますか。</string>
     <string name="incoming_line1">送信元</string>
     <string name="incoming_line2">ファイル名</string>
     <string name="incoming_line3">サイズ</string>
@@ -318,13 +318,13 @@
     <string name="miuix_appcompat_delete_description">削除</string>
     <string name="miuix_appcompat_deselect_all">すべての選択を解除</string>
     <string name="miuix_appcompat_deselect_all_description">すべての選択を解除</string>
-    <string name="miuix_appcompat_edit">編集</string>
+    <string name="miuix_appcompat_edit"></string>
     <string name="miuix_appcompat_search_action_mode_cancel">キャンセル</string>
     <string name="miuix_appcompat_search_input_description">検索</string>
     <string name="miuix_appcompat_select_all">すべて選択</string>
     <string name="miuix_appcompat_select_all_description">すべて選択</string>
     <string name="miuix_appcompat_select_item">アイテムを選択</string>
-    <string name="miuix_indexer_collect">コレクション</string>
+    <string name="miuix_indexer_collect"></string>
     <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">プルダウンして更新</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">正常に更新されました</string>
@@ -408,7 +408,7 @@
     <string name="permdesc_handoverStatus">Bluetooth からのハンドオーバー転送ステータス情報の受信を許可します。</string>
     <string name="permlab_bluetoothAcceptlist">Bluetoothデバイスによるアクセスを許可します。</string>
     <string name="permlab_bluetoothShareManager">ダウンロードマネージャーにアクセスします。</string>
-    <string name="permlab_handoverStatus">BT ハンドオーバー転送ブロードキャストを受信します。</string>
+    <string name="permlab_handoverStatus">BTハンドオーバー転送ブロードキャストを受信します。</string>
     <string name="phonebook_advance_feature_support">電話帳の高度な機能に対応しています</string>
     <string name="pm">午後</string>
     <string name="process"></string>
