@@ -164,7 +164,7 @@
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">中国暦</string>
     <string name="date_time_picker_dialog_title">日付と時刻を設定</string>
-    <string name="daughter">女儿</string>
+    <string name="daughter">娘</string>
     <string name="degDesc">角度</string>
     <string name="delete">削除</string>
     <string name="deleteDesc">削除</string>
@@ -209,8 +209,8 @@
     <string name="earthly_branches_yin">寅</string>
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
-    <string name="elder_brother">哥哥</string>
-    <string name="elder_sister">姐姐</string>
+    <string name="elder_brother">兄</string>
+    <string name="elder_sister">妹</string>
     <string name="empty"></string>
     <string name="empty_history">ここにアイテムはまだありません</string>
     <string name="equalDesc">イコール</string>
@@ -222,9 +222,9 @@
     <string name="extra_deduction_instruction">控除の詳細</string>
     <string name="extra_deduction_title">追加控除</string>
     <string name="factorialDesc">階乗</string>
-    <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
+    <string name="far_relationship_result">年上ならばご先祖様と呼び、同い年なら美少女と呼びましょう～</string>
     <string name="fat">過体重</string>
-    <string name="father">爸爸</string>
+    <string name="father">父</string>
     <string name="female">性別：女性</string>
     <string name="finance_interest">Interest rate (%s)</string>
     <string name="float_window">最小化</string>
@@ -285,8 +285,8 @@
     <string name="friday_shortest">金</string>
     <string name="fund_loan">基金ローン</string>
     <string name="further_education">さらなる教育</string>
-    <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-    <string name="gay_search_result">是男是女不重要，是你就好</string>
+    <string name="gay_other_search_result">私達は当分の間、同性婚を支持しません～</string>
+    <string name="gay_search_result">男性であろうが女性であろうが関係はありません</string>
     <string name="get_loaction_permission_title">位置の特定</string>
     <string name="get_location_fail_prompt">"位置情報を取得できませんでした"</string>
     <string name="gst_initial_value">%d</string>
@@ -335,7 +335,7 @@
     <string name="item_title_menu_income_tax">所得税</string>
     <string name="item_title_menu_mortgage">住宅ローン</string>
     <string name="item_title_radix">数体系</string>
-    <string name="item_title_relationship">Terms of kinship</string>
+    <string name="item_title_relationship">親族関係</string>
     <string name="item_title_result">現在のBMI</string>
     <string name="item_title_scientific_calculator">関数電卓</string>
     <string name="item_title_temprature_conversion">温度</string>
@@ -362,7 +362,7 @@
     <string name="label_months">月</string>
     <string name="label_powered_by">Powered by Mi 電卓</string>
     <string name="label_principal">元金</string>
-    <string name="label_share">Share</string>
+    <string name="label_share">共有</string>
     <string name="label_statistics">統計</string>
     <string name="label_to_date">終了日</string>
     <string name="label_total_interest">合計利息</string>
@@ -493,7 +493,7 @@
     <string name="mortgage_provident_found_interest_rate">"基金の金利"</string>
     <string name="mortgage_provider_east_money">データはEast Moneyによって提供されています</string>
     <string name="mortgage_result">結果</string>
-    <string name="mother">妈妈</string>
+    <string name="mother">母親</string>
     <string name="mt_max">入力した金額が大きすぎます</string>
     <string name="mulDesc">かける</string>
     <string name="n_a">該当なし</string>
@@ -560,7 +560,7 @@
     <string name="re_compute">再計算</string>
     <string name="reciprocalDesc">逆数</string>
     <string name="relationship">続柄</string>
-    <string name="relationship_cross_check_suggestion">TA称呼我</string>
+    <string name="relationship_cross_check_suggestion">TAからの電話</string>
     <string name="relationship_default_separator_text">的</string>
     <string name="relationship_default_text">我</string>
     <string name="release_to_refresh">指を離して履歴を表示</string>
@@ -599,7 +599,7 @@
     <string name="solar_term_white_dews">Dews</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
-    <string name="son">儿子</string>
+    <string name="son">息子</string>
     <string name="sqrtDesc">平方根</string>
     <string name="statistic_label_balance">残高</string>
     <string name="statistic_label_interest">利息</string>
@@ -702,7 +702,7 @@
     <string name="times"></string>
     <string name="today">今日</string>
     <string name="tomorrow">明日</string>
-    <string name="too_long_result">再玩就玩坏了</string>
+    <string name="too_long_result">このまま続行をすると壊れます</string>
     <string name="tuesday">火曜日</string>
     <string name="tuesday_short">火</string>
     <string name="tuesday_shortest">火</string>
@@ -1081,7 +1081,7 @@
     <string name="wf_word_figure">大字</string>
     <string name="widget_calculator_name">基本</string>
     <string name="widget_currency_name">通貨</string>
-    <string name="wife">妻子</string>
+    <string name="wife">妻</string>
     <string name="withdraw_network_error">同意を撤回するには、デバイスがネットワークに接続されている必要があります。ネットワーク設定を確認して、もう一度お試しください。</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
@@ -1104,10 +1104,10 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">今はしない</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">更新</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">アップデートが利用可能です</string>
     <string name="yesterday">昨日</string>
-    <string name="younger_brother">弟弟</string>
-    <string name="younger_sister">妹妹</string>
+    <string name="younger_brother">弟</string>
+    <string name="younger_sister">妹</string>
 </resources>
