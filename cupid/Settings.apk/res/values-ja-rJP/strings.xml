@@ -38,8 +38,8 @@
     <string name="abc_action_mode_done">完了</string>
     <string name="abc_activity_chooser_view_see_all">すべて表示</string>
     <string name="abc_activitychooserview_choose_application">アプリの選択</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
+    <string name="abc_capital_off">オフ</string>
+    <string name="abc_capital_on">オン</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -143,12 +143,12 @@
     <string name="accessibility_call_vibration_category_title">通話</string>
     <string name="accessibility_captioning_about_title">字幕の設定について</string>
     <string name="accessibility_captioning_footer_learn_more_content_description">字幕の設定の詳細</string>
-    <string name="accessibility_captioning_preference_intro">Customize caption size and style to make them easier to read</string>
-    <string name="accessibility_captioning_preference_summary">These caption preferences aren’t supported by all media apps</string>
-    <string name="accessibility_captioning_primary_switch_summary">For supported app only</string>
+    <string name="accessibility_captioning_preference_intro">字幕のサイズとスタイルをカスタマイズして読みやすくします</string>
+    <string name="accessibility_captioning_preference_summary">これらの字幕設定は、すべてのメディアアプリでサポートはされていません</string>
+    <string name="accessibility_captioning_primary_switch_summary">対応しているアプリのみ</string>
     <string name="accessibility_captioning_primary_switch_title">字幕を表示</string>
     <string name="accessibility_captioning_title">字幕の設定</string>
-    <string name="accessibility_category_clone">Clone profile accounts</string>
+    <string name="accessibility_category_clone">プロファイルアカウントをクローン</string>
     <string name="accessibility_category_personal">個人用プロファイルアカウント</string>
     <string name="accessibility_category_work">仕事用プロファイルアカウント - %s</string>
     <string name="accessibility_clear">消去</string>
@@ -194,16 +194,16 @@
     <string name="accessibility_feature_state_off">OFF</string>
     <string name="accessibility_feature_state_on">ON</string>
     <string name="accessibility_fingerprint_label">指紋認証センサー</string>
-    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Font size added to Quick Settings. Swipe down to change the font size anytime.</string>
-    <string name="accessibility_found_all_devices">Don’t see your hearing device?</string>
-    <string name="accessibility_found_hearing_devices">Available hearing devices</string>
+    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">クイック設定にフォントサイズを追加します。下にスワイプで、いつでもフォントサイズが変更できます。</string>
+    <string name="accessibility_found_all_devices">補聴器をお探しですか？</string>
+    <string name="accessibility_found_hearing_devices">利用可能な補聴器</string>
     <string name="accessibility_global_gesture_preference_title">音量キーのショートカット</string>
-    <string name="accessibility_hac_mode_summary">Improves compatibility with telecoils and reduces unwanted noise</string>
-    <string name="accessibility_hac_mode_title">Hearing aid compatibility</string>
+    <string name="accessibility_hac_mode_summary">テレコイルの互換性を高めて、不要なノイズを低減します</string>
+    <string name="accessibility_hac_mode_title">補聴器の互換性</string>
     <string name="accessibility_haptic">アクセシビリティ</string>
-    <string name="accessibility_hearing_device_about_title">About hearing devices</string>
-    <string name="accessibility_hearing_device_connected_title">Hearing devices</string>
-    <string name="accessibility_hearing_device_control">Hearing device controls</string>
+    <string name="accessibility_hearing_device_about_title">補聴器について</string>
+    <string name="accessibility_hearing_device_connected_title">補聴器</string>
+    <string name="accessibility_hearing_device_control">補聴器のコントロール</string>
     <string name="accessibility_hearing_device_footer_summary">Make sure your hearing device is turned on and ready to pair</string>
     <string name="accessibility_hearing_device_pairing_page_title">Pair hearing device</string>
     <string name="accessibility_hearing_device_pairing_title">新しいデバイスとペア設定</string>
@@ -849,7 +849,7 @@
     <string name="app_locales_picker_menu_title">アプリの言語</string>
     <string name="app_memory_use">メモリ使用</string>
     <string name="app_mobile">モバイルデータ</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">ぼかし</string>
     <string name="app_name_na">データ使用量</string>
     <string name="app_names_concatenation_template_2">%1$s、%2$s</string>
     <string name="app_names_concatenation_template_3">%1$s、%2$s、%3$s</string>
@@ -859,13 +859,13 @@
     <string name="app_notification_block_title">すべてブロック</string>
     <string name="app_notification_field">アプリの設定</string>
     <string name="app_notification_field_summary">各アプリからの通知の管理</string>
-    <string name="app_notification_fsi_permission_summary">Allow notifications to take up the full screen when the device is locked</string>
-    <string name="app_notification_fsi_permission_title">Allow full screen notifications</string>
+    <string name="app_notification_fsi_permission_summary">デバイスのロック時に通知が全画面表示されるようにします</string>
+    <string name="app_notification_fsi_permission_title">全画面通知を許可する</string>
     <string name="app_notification_override_dnd_summary">サイレント モードが ON の場合もこの通知を引き続き表示します</string>
     <string name="app_notification_override_dnd_title">サイレント モードの例外</string>
     <string name="app_notification_visibility_override_title">ロック画面</string>
     <string name="app_notifications_dialog_done">完了</string>
-    <string name="app_notifications_not_send_desc">This app does not send notifications</string>
+    <string name="app_notifications_not_send_desc">このアプリは通知を送信しない</string>
     <string name="app_notifications_off_desc">"選択された設定に基づき、このアプリの通知はこのデバイスに表示されません"</string>
     <string name="app_notifications_switch_label">カスタム通知</string>
     <string name="app_notifications_title">アプリの通知</string>
@@ -931,15 +931,15 @@
     <string name="assist_flash_summary">アシストアプリが画面のテキストやスクリーンショットにアクセスしたときに画面の端を点滅させます</string>
     <string name="assist_flash_title">画面の点滅</string>
     <string name="assist_footer">アシストアプリは、表示している画面の情報に基づいてアシスタントを提供します。一部のアプリはランチャーと音声入力サービスの両方に対応しており、統合されたアシスタントを提供します。</string>
-    <string name="assist_gesture_title">Assist gesture</string>
+    <string name="assist_gesture_title">アシストジェスチャー</string>
     <string name="assistance_category_title">アクセシビリティ</string>
-    <string name="assistant_add_fail">"Can't listen now. Wait a minute or two and try again."</string>
+    <string name="assistant_add_fail">"今は聴けません。1、2分後に再度お試し下さい。"</string>
     <string name="assistant_corner_gesture_summary">右下隅または左下隅から斜め上にスワイプしてデジタル アシスタント アプリを起動します。</string>
     <string name="assistant_corner_gesture_title">スワイプしてアシスタントを起動</string>
     <string name="assistant_gesture_category_title">デジタル アシスタント</string>
     <string name="assistant_long_press_home_gesture_summary">ホームボタンを長押しすることでデジタル アシスタント アプリを起動します。</string>
     <string name="assistant_long_press_home_gesture_title">ホームボタンを長押ししてアシスタントを起動</string>
-    <string name="assistant_operate_timeout">Request timed out. Try again.</string>
+    <string name="assistant_operate_timeout">リクエストがタイムアウトしました。再試行してください。</string>
     <string name="assistant_security_warning_agree">同意する</string>
     <string name="assisted_gps">A-GPSを使用</string>
     <string name="assisted_gps_disabled">サーバーでGPSを補助します（OFFにするとGPS性能が向上します）</string>
@@ -957,16 +957,16 @@
     <string name="attempt_other_network">ネットワークを切り替える</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_category_title">音声</string>
-    <string name="audio_not_synced">Audio not synced</string>
+    <string name="audio_not_synced">オーディオが同期されていません</string>
     <string name="audio_profile_settings_title">オーディオプロファイル</string>
-    <string name="audio_share_abs_volume_message">"Can't independently adjust volume when using audio sharing"</string>
+    <string name="audio_share_abs_volume_message">"オーディオ共有の使用時に音量を個別に調整できません"</string>
     <string name="audio_share_cancel">今はしない</string>
     <string name="audio_share_confirm">共有</string>
-    <string name="audio_synced">Audio Synced</string>
-    <string name="auracast_add_source_code_error">密码错误，广播收听异常，请重新加入收听</string>
+    <string name="audio_synced">オーディオは同期されています</string>
+    <string name="auracast_add_source_code_error">パスワードが正しくありません。ブロードキャストリスニングの例外です</string>
     <string name="auracast_add_source_conflict_broadcasting">本机正处于广播中，请关闭音频广播后，再收听附近广播</string>
     <string name="auracast_add_source_conflict_listening">请先结束收听当前广播</string>
-    <string name="auracast_scan_not_support">"Not connected to compatible earphones. Can't find nearby broadcasts."</string>
+    <string name="auracast_scan_not_support">"対応しているイヤホンに接続されていません、近くのブロードキャストが見つかりません。"</string>
     <string name="auto_adjst_effect_summary">色温度を周囲の光に合わせて自動的に調整して、目の快適レベルを維持する</string>
     <string name="auto_adjust_effect_title">色温度を自動調整</string>
     <string name="auto_anc_closed">オフ</string>
@@ -989,13 +989,13 @@
     <string name="auto_clean_summary">30秒のオーディオを再生してスピーカーをクリーニングする</string>
     <string name="auto_clean_summary_new">%d秒のオーディオを流して、スピーカーをクリーニングします。汚れがひどい場合は、この機能を連続して複数回使用してください。</string>
     <string name="auto_clean_title">スピーカーをクリーニング</string>
-    <string name="auto_confirm_off_pin_verify_description">Enter device PIN to disable auto-confirm</string>
-    <string name="auto_confirm_on_pin_verify_description">Enter device PIN to enable auto-confirm</string>
+    <string name="auto_confirm_off_pin_verify_description">自動確認を無効にするにはデバイスのPINを入力してください</string>
+    <string name="auto_confirm_on_pin_verify_description">デバイスのPINを入力して自動確認を有効</string>
     <string name="auto_data_switch_dialog_managed_profile_warning">"
 
-Calls, messages, and network traffic may be visible to your organization."</string>
-    <string name="auto_data_switch_summary">Use this network when it has better availability</string>
-    <string name="auto_data_switch_title">Switch mobile data automatically</string>
+通話、メッセージ、ネットワークトラフィックは、あなたの組織に傍受されるかもしれません。"</string>
+    <string name="auto_data_switch_summary">利用しやすいネットワークを使用します</string>
+    <string name="auto_data_switch_title">モバイルデータを自動切り替え</string>
     <string name="auto_disable_broadcast_audio">不广播时关闭该模式</string>
     <string name="auto_disable_screenbuttons_ask">無効にするか確認</string>
     <string name="auto_disable_screenbuttons_auto">常に無効にする</string>
@@ -1012,8 +1012,8 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="auto_launch_enable_text">デフォルトでは、選択した一部のアクティビティがこのアプリ内で開きます。</string>
     <string name="auto_launch_label">デフォルトで開く</string>
     <string name="auto_launch_label_generic">デフォルト</string>
-    <string name="auto_pin_confirm_opt_in_security_message">Confirming your PIN by tapping Enter is more secure than using auto-confirm</string>
-    <string name="auto_pin_confirm_user_message">Auto-confirm correct PIN</string>
+    <string name="auto_pin_confirm_opt_in_security_message">EnterをタップしてPINを確認する方が、自動確認よりも安全です</string>
+    <string name="auto_pin_confirm_user_message">正しいPINの自動確認</string>
     <string name="auto_punctuate">ピリオド自動挿入</string>
     <string name="auto_punctuate_summary">英語: Spaceキー2回でピリオド(.)を挿入</string>
     <string name="auto_replace">自動修正</string>
@@ -1034,12 +1034,12 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="auto_rotate_switch_face_based">顔検出</string>
     <string name="auto_rule">タイマー</string>
     <string name="auto_silent">オンにする時間を設定する</string>
-    <string name="auto_silent_info">This feature stops working if you switch to DND mode manually</string>
+    <string name="auto_silent_info">手動でDNDモードに切り替えると、この機能は動作しなくなります</string>
     <string name="auto_startup_application_manage">自動起動</string>
     <string name="auto_sync_account_summary">アプリにデータの自動更新を許可します</string>
     <string name="auto_sync_account_title">アプリデータを自動的に同期する</string>
     <string name="auto_task_operation_close">オフにする</string>
-    <string name="auto_zone_requires_location_summary">Location will be used for setting the time zone when this toggle is on</string>
+    <string name="auto_zone_requires_location_summary">この切り替えがオンの場合、その場所のタイムゾーンが使用されます</string>
     <string name="autofill_app">自動入力サービス</string>
     <string name="autofill_confirmation_message">"&lt;b&gt;このアプリが信頼できることを確認してください&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; は画面上の内容に基づいて、自動入力可能な情報を判別します。"</string>
     <string name="autofill_keywords">自動, 入力, 自動入力, パスワード</string>
@@ -1052,7 +1052,7 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="autofill_reset_developer_options">デフォルト値にリセット</string>
     <string name="autofill_reset_developer_options_complete">自動入力の開発者向けオプションをリセットしました</string>
     <string name="automatic_brightness">明るさを自動調整</string>
-    <string name="automatic_brightness_close_for_virtual_light_sensor">To be able to adjust brightness automatically, turn off Face unlock first</string>
+    <string name="automatic_brightness_close_for_virtual_light_sensor">明るさを自動調整するには、顔認証のロック解除をオフにしてください</string>
     <string name="automatic_storage_manager_activation_warning">お使いのストレージの管理はストレージ マネージャが行うようになりました</string>
     <string name="automatic_storage_manager_days_title">写真と動画を削除</string>
     <string name="automatic_storage_manager_deactivation_warning">ストレージ マネージャを OFF にしますか？</string>
@@ -1065,9 +1065,9 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="automatic_storage_manager_text">ストレージの空き容量を増やすため、ストレージ マネージャはバックアップした写真や動画をお使いのデバイスから削除します。</string>
     <string name="automatic_system_heap_dump_summary">Android システムでメモリの使用量が多すぎる場合にヒープダンプを自動的に取得します</string>
     <string name="automatic_system_heap_dump_title">システムのヒープダンプの自動取得</string>
-    <string name="autoui_mode_guide_text">Optimize in-app layouts for compatible apps to enhance visual experience</string>
+    <string name="autoui_mode_guide_text">互換性のあるアプリのレイアウトを最適化し、ビジュアル体験を向上させます</string>
     <string name="autoui_mode_name">アプリのレイアウトを最適化</string>
-    <string name="autoui_mode_no_support_apps">"Couldn't find compatible apps"</string>
+    <string name="autoui_mode_no_support_apps">"互換性のあるアプリがありません"</string>
     <string name="autoui_search_hint">アプリを検索</string>
     <string name="available_size">%s (利用可能)</string>
     <string name="available_virtual_keyboard_category">利用可能な画面キーボード</string>
@@ -1076,16 +1076,16 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="average_used">平均使用量（%）</string>
     <string name="avoid_ui">タッチレスポンスをブロック</string>
     <string name="aware_summary_when_bedtime_on">おやすみ時間モードが ON のため利用できません</string>
-    <string name="ba_high_security_level">16位密码</string>
-    <string name="ba_high_security_level_summary">安全风险: 低</string>
-    <string name="ba_low_security_level">无密码</string>
-    <string name="ba_low_security_level_summary">安全风险: 高</string>
-    <string name="ba_mid_security_level">4位密码</string>
-    <string name="ba_mid_security_level_summary">安全风险: 中</string>
-    <string name="ba_security_settings">共享广播密码</string>
-    <string name="ba_security_summary">密码:</string>
-    <string name="ba_security_summary_no_pin">无密码</string>
-    <string name="ba_security_summary_pin_unavailable">不可用</string>
+    <string name="ba_high_security_level">16桁のパスワード</string>
+    <string name="ba_high_security_level_summary">セキュリティリスク: 低</string>
+    <string name="ba_low_security_level">パスワードなし</string>
+    <string name="ba_low_security_level_summary">セキュリティリスク: 高</string>
+    <string name="ba_mid_security_level">4桁のパスワード</string>
+    <string name="ba_mid_security_level_summary">セキュリティリスク: 中</string>
+    <string name="ba_security_settings">ブロードキャスト共有のパスワード</string>
+    <string name="ba_security_summary">パスワード:</string>
+    <string name="ba_security_summary_no_pin">パスワードなし</string>
+    <string name="ba_security_summary_pin_unavailable">使用不可</string>
     <string name="back">戻る</string>
     <string name="back_button">戻る</string>
     <string name="back_double_tap">背面を2回タップ</string>
@@ -1103,10 +1103,10 @@ Calls, messages, and network traffic may be visible to your organization."</stri
     <string name="background_activity_summary">バックグラウンドでのアプリの実行を許可</string>
     <string name="background_activity_warning_dialog_text">アプリのバックグラウンド アクティビティを制限すると、アプリが正常に機能しないことがあります</string>
     <string name="background_activity_warning_dialog_title">バックグラウンド アクティビティの制限</string>
-    <string name="background_blur_enable">Advanced textures</string>
-    <string name="background_blur_enable_summary">Adds rendering effects like blurring across the system to provide an enhanced visual experience</string>
-    <string name="background_blur_message">Turning on this feature may use more power and cause your device to heat up. Turn on anyway?</string>
-    <string name="background_blur_title">Turn on advanced textures</string>
+    <string name="background_blur_enable">高度なテクスチャ</string>
+    <string name="background_blur_enable_summary">システム全体にぼかしなどのレンダリング効果を追加し、より優れたビジュアル体験を提供します</string>
+    <string name="background_blur_message">この機能をオンにする事で、より多くの電力の消費やデバイスの発熱が起きる可能性があります。機能をオンにしますか？</string>
+    <string name="background_blur_title">高度なテクスチャをオンにする</string>
     <string name="background_check_pref">バックグラウンド チェック</string>
     <string name="background_data">バックグラウンドデータ</string>
     <string name="background_data_dialog_message">バックグラウンドデータを無効にすると、データの使用量が減るためバッテリーを節約できます。一部のアプリでは引き続きバックグラウンドデータの接続を使用します。</string>
@@ -1350,12 +1350,12 @@ Any apps listed here aren't required for your device to function normally. You c
     <string name="battery_usage_for_background_time">バックグラウンド: %s</string>
     <string name="battery_usage_for_total_time">合計: %s</string>
     <string name="battery_usage_less_than_percent">&lt; %1$s</string>
-    <string name="battery_usage_others">Others</string>
+    <string name="battery_usage_others">その他</string>
     <string name="battery_usage_screen_footer">バッテリー使用量のデータは概算値です。スマートフォンの充電中の使用量は測定されません</string>
     <string name="battery_usage_screen_footer_empty">バッテリー使用量のデータは、スマートフォンを数時間使用すると表示されます</string>
-    <string name="battery_usage_screen_time">Screen time: %s</string>
-    <string name="battery_usage_screen_time_less_than_one_minute">Screen time: less than a min</string>
-    <string name="battery_usage_since_last_full_charge">since last full charge</string>
+    <string name="battery_usage_screen_time">スクリーンタイム: %s</string>
+    <string name="battery_usage_screen_time_less_than_one_minute">スクリーンタイム: 1分未満</string>
+    <string name="battery_usage_since_last_full_charge">最後の満充電から</string>
     <string name="battery_usage_spinner_view_by_apps">View by apps</string>
     <string name="battery_usage_spinner_view_by_systems">View by systems</string>
     <string name="battery_usage_system_apps">System apps</string>
@@ -1747,7 +1747,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_map_request">メッセージへのアクセスのリクエスト</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">接続できる Bluetooth オーディオ デバイス数の上限の選択</string>
     <string name="bluetooth_max_connected_audio_devices_string">接続できる Bluetooth オーディオ デバイスの上限</string>
-    <string name="bluetooth_media_title">Media</string>
+    <string name="bluetooth_media_title">メディア</string>
     <string name="bluetooth_menu_advanced">詳細設定</string>
     <string name="bluetooth_message_access_dialog_content">"信頼されていないBluetoothデバイス (%1$s) がメッセージにアクセスしようとしています。
 
@@ -1773,7 +1773,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_opp_profile_summary_not_connected">ファイル転送サーバーに接続されていません</string>
     <string name="bluetooth_opp_profile_summary_use_for">ファイル転送に使用</string>
     <string name="bluetooth_other_settings">追加設定</string>
-    <string name="bluetooth_pair_left_ear_button">Pair left ear</string>
+    <string name="bluetooth_pair_left_ear_button">左耳をペア設定</string>
     <string name="bluetooth_pair_other_ear_dialog_left_ear_message">"左の補聴器を接続しました。
 
 右の補聴器をペア設定するには、電源が入り、ペア設定できる状態になっていることをご確認ください。"</string>
@@ -1783,7 +1783,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
 左耳をペア設定するには、電源が入り、ペア設定できる状態になっていることをご確認ください。"</string>
     <string name="bluetooth_pair_other_ear_dialog_right_ear_positive_button">右耳をペア設定</string>
     <string name="bluetooth_pair_other_ear_dialog_title">もう一方の耳をペア設定</string>
-    <string name="bluetooth_pair_right_ear_button">Pair right ear</string>
+    <string name="bluetooth_pair_right_ear_button">右耳をペア設定</string>
     <string name="bluetooth_paired">保存済み</string>
     <string name="bluetooth_paired_device_title">デバイス</string>
     <string name="bluetooth_pairing">ペア設定中…</string>
@@ -1827,7 +1827,7 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_profile_a2dp">メディアオーディオ</string>
     <string name="bluetooth_profile_a2dp_high_quality">HDオーディオ: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HDオーディオ</string>
-    <string name="bluetooth_profile_bc">BC Profile</string>
+    <string name="bluetooth_profile_bc">BCプロファイル</string>
     <string name="bluetooth_profile_broadcast">ブロードキャスト</string>
     <string name="bluetooth_profile_dun">ダイヤルアップネットワークアクセス</string>
     <string name="bluetooth_profile_headset">電話</string>
@@ -1846,10 +1846,10 @@ You can unlock with your watch when your face or fingerprint isn’t recognized.
     <string name="bluetooth_rename_button">名前を変更</string>
     <string name="bluetooth_rename_device">このデバイスの名前を変更</string>
     <string name="bluetooth_right_name">右</string>
-    <string name="bluetooth_ringtone_title">Ringtone and alarms</string>
+    <string name="bluetooth_ringtone_title">着信音とアラーム</string>
     <string name="bluetooth_sap_profile_summary_connected">SAPに接続済み</string>
     <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string>
-    <string name="bluetooth_scan_change">Change</string>
+    <string name="bluetooth_scan_change">変更</string>
     <string name="bluetooth_scan_for_devices">デバイスをスキャン</string>
     <string name="bluetooth_scan_source_title">Scan for Broadcast sources for</string>
     <string name="bluetooth_scanning_on_info_message">"\"Bluetooth を ON にすると、付近の他の Bluetooth デバイスと通信できます。
@@ -7481,7 +7481,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="power_menu_long_press_for_assist_sensitivity_low_label">短い</string>
     <string name="power_menu_long_press_for_assist_sensitivity_summary">長さを選択して感度を調整し、電源ボタンを長押しします。</string>
     <string name="power_menu_long_press_for_assist_sensitivity_title">長押しの長さ</string>
-    <string name="power_menu_long_press_for_assistant_title">Digital assistant</string>
+    <string name="power_menu_long_press_for_assistant_title">デジタルアシスタント</string>
     <string name="power_menu_long_press_for_power_menu_title">電源メニュー</string>
     <string name="power_menu_power_prevent_ringing_hint">"着信音のミュート:
 音量メニューでショートカットを利用できます。"</string>
