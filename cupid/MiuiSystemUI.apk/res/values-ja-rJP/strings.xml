@@ -329,7 +329,7 @@
     <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">コンピュータ</string>
-    <string name="bluetooth_talkback_group">Group Devices</string>
+    <string name="bluetooth_talkback_group">グループのデバイス</string>
     <string name="bluetooth_talkback_headphone">ヘッドフォン</string>
     <string name="bluetooth_talkback_headset">ヘッドセット</string>
     <string name="bluetooth_talkback_imaging">画像</string>
@@ -917,8 +917,8 @@
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">スキャナー</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
-    <string name="gxzw_quick_open_dialer">Dialer</string>
-    <string name="gxzw_quick_open_dialer_sub">Phone</string>
+    <string name="gxzw_quick_open_dialer">ダイアラー</string>
+    <string name="gxzw_quick_open_dialer_sub">電話</string>
     <string name="gxzw_quick_open_qr_code">QRコード</string>
     <string name="gxzw_quick_open_qr_code_sub">スキャナー</string>
     <string name="gxzw_quick_open_search">検索</string>
@@ -1534,7 +1534,7 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="multiwin_windowcontrol">ウィンドウコントロールバー</string>
     <string name="music_controls_no_title">タイトルなし</string>
     <string name="nav_bar">ナビゲーション バー</string>
-    <string name="nav_bar_edge_panel">Navigation bar Edge Panel</string>
+    <string name="nav_bar_edge_panel">ナビゲーションバーエッジパネル</string>
     <string name="nav_bar_layout">レイアウト</string>
     <string name="new_notification_image_content_description">%1$s さんが画像を送信しました</string>
     <string name="new_notification_text_content_description">%1$s さんからのメッセージ: %2$s</string>
@@ -1673,7 +1673,7 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="pip_play">再生</string>
     <string name="pip_skip_to_next">次へスキップ</string>
     <string name="pip_skip_to_prev">前へスキップ</string>
-    <string name="plugins">Plugins</string>
+    <string name="plugins">プラグイン</string>
     <string name="pm">午後</string>
     <string name="power_discharge_by_only_short">%1$s まで</string>
     <string name="power_notification_controls_description">"電源通知管理では、アプリの通知の重要度をレベル 0～5 で設定できます。
@@ -1728,7 +1728,7 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="qs_control_big_tile_state_connected">接続済み</string>
     <string name="qs_control_big_tile_state_connecting">接続中…</string>
     <string name="qs_control_big_tile_state_opening">オンにしています…</string>
-    <string name="qs_customize_remove">Remove</string>
+    <string name="qs_customize_remove">削除</string>
     <string name="qs_customize_title">編集</string>
     <string name="qs_edit">編集</string>
     <string name="qs_open_night_mode_alert_summary">"一部のディスプレイ設定はダークモードと互換性がありません。ただし、ダークモードをオフにするとそれらの設定は元に戻ります。"</string>
@@ -1928,8 +1928,8 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="rear_display_folded_bottom_sheet_title">スマートフォンを開いてください</string>
     <string name="rear_display_unfolded_bottom_sheet_description">高解像度で撮るにはスマートフォンを裏返してください</string>
     <string name="rear_display_unfolded_bottom_sheet_title">画面を切り替えますか？</string>
-    <string name="reboot_to_bootloader_title">Fastboot mode</string>
-    <string name="reboot_to_recovery_title">Recovery mode</string>
+    <string name="reboot_to_bootloader_title">Fastbootモード</string>
+    <string name="reboot_to_recovery_title">リカバリーモード</string>
     <string name="recent_conversations">最近の会話</string>
     <string name="recent_used_camera">このアプリはカメラにアクセスしました</string>
     <string name="recent_used_camera_and_microphone">このアプリはカメラとマイクにアクセスしました</string>
