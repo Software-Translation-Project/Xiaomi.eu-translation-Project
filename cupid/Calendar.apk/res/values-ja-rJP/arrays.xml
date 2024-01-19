@@ -285,17 +285,17 @@
     <item>December</item>
   </string-array>
   <string-array name="entryvalues_settings_debug">
-    <item>无</item>
-    <item>导出并发送日志</item>
-    <item>生成日志至文件管理器</item>
+    <item>なし</item>
+    <item>ログのエクスポートと送信</item>
+    <item>ファイルマネージャーにログを生成</item>
   </string-array>
   <string-array name="eras">
     <item>@string/eras_bc</item>
     <item>@string/eras_ad</item>
   </string-array>
   <string-array name="fortune_gender">
-    <item>男</item>
-    <item>女</item>
+    <item>男性</item>
+    <item>女性</item>
   </string-array>
   <string-array name="fortune_random_birthday">
     <item>1992-01-01</item>
@@ -329,10 +329,10 @@
     <item>5/21 - 6/21</item>
   </string-array>
   <string-array name="global_criket_match">
-    <item>International</item>
+    <item>インターナショナル</item>
     <item>IPL</item>
-    <item>Domestic</item>
-    <item>T20 Leagues</item>
+    <item>国内</item>
+    <item>T20 リーグ</item>
   </string-array>
   <string-array name="heavenly_stems">
     <item>@string/heavenly_stems_jia</item>
