@@ -57,10 +57,10 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">pdf-android-tools</string>
     <string name="app_unknownError">不明なエラーによる終了</string>
-    <string name="chart_NotSupportedPic_bmw">This image cannot currently be displayed.</string>
-    <string name="chart_OtherCategoryName_bmw">Other</string>
-    <string name="chart_defaultAxisTitle_bmw">Axis Title</string>
-    <string name="chart_defaultChartTitle_bmw">Chart Title</string>
+    <string name="chart_NotSupportedPic_bmw">この画像は現在表示できません。</string>
+    <string name="chart_OtherCategoryName_bmw">その他</string>
+    <string name="chart_defaultAxisTitle_bmw">軸のタイトル</string>
+    <string name="chart_defaultChartTitle_bmw">図表のタイトル</string>
     <string name="chart_exponential_bmw">Exponential</string>
     <string name="chart_linear_bmw">Linear</string>
     <string name="chart_logarithmic_bmw">Logarithmic</string>
@@ -139,7 +139,7 @@
     <string name="et_sorter_expand_selection_ok">他の領域に拡張</string>
     <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
     <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
-    <string name="feedback_display_subject">Display error</string>
+    <string name="feedback_display_subject">表示エラー</string>
     <string name="feedback_display_subject_jp">文字化け/データ表示不具合</string>
     <string name="feedback_display_subject_tw">顯示錯誤</string>
     <string name="feedback_display_subject_zh">文档显示不正确</string>
@@ -159,7 +159,7 @@
     <string name="feedback_save_subject_jp">データが保存されていない</string>
     <string name="feedback_save_subject_tw">資料遺失</string>
     <string name="feedback_save_subject_zh">保存内容丢失</string>
-    <string name="feedback_subject">User Feedback</string>
+    <string name="feedback_subject">ユーザーフィードバック</string>
     <string name="feedback_subject_jp">KSO for Androidの改善要望</string>
     <string name="feedback_subject_tw">用戶回饋</string>
     <string name="feedback_subject_zh">用户反馈</string>
@@ -170,10 +170,10 @@
     <string name="file_format_error">此文档格式不支持操作</string>
     <string name="filter">フィルター</string>
     <string name="find_path">com.netease.mail.fileprovider#netease/Mail/;com.netease.mobimail.fileprovider#netease/163mail/;com.tencent.wework.external.fileprovider#tencent/WeixinWork/filecache;com.baidu.searchbox.fileprovider#baidu/searchbox/downloads/;com.yearsdiary.tenyear.mis.fileprovider#/Android/data/com.yearsdiary.tenyear/files/wwwroot;com.android.fileexplorer.myprovider#/documents;im.yixin.fileprovider#/Android/data/im.yixin/files/Yixin/file;com.baidu.wenku.fileProvider#BaiduWenku/download/original;com.android.providers.downloads.documents#/document;com.android.chrome.FileProvider#/downloads;com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;999@com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;com.synology.dsfile.fileprovider#DSfile/;com.tencent.weworklocal.fileprovider#Tencent/WeixinWork/filecache/;com.synology.dsdrive.external#DSfile/;im.yixin.qiye.fileprovider#Android/data/im.yixin/files/Yixin/file/;com.microsoft.emmx.FileProvider#Android/data/com.microsoft.emmx/files/Download/;</string>
-    <string name="func_extract_sheet">Extract</string>
-    <string name="func_output_as_pic">Image</string>
+    <string name="func_extract_sheet">展開</string>
+    <string name="func_output_as_pic">画像</string>
     <string name="func_pdf_to_word">Word</string>
-    <string name="func_smart_typography">Smart layout</string>
+    <string name="func_smart_typography">スマートレイアウト</string>
     <string name="func_translate_title">Translate whole document</string>
     <string name="go_to_download">去下载</string>
     <string name="help_send_editing_file">Send %s for helping developer to location the problem.</string>
@@ -228,7 +228,7 @@
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
     <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
     <string name="projection_fail">"キャストできませんでした。外部モニターを確認して、もう一度お試しください。"</string>
-    <string name="public_2pic">Export to image</string>
+    <string name="public_2pic">画像でエクスポート</string>
     <string name="public_ack">知道了</string>
     <string name="public_amazon_autosave_finished">ドキュメントは自動保存されました</string>
     <string name="public_app_language">2052</string>
@@ -255,11 +255,11 @@
     <string name="public_current_version">当前版本</string>
     <string name="public_cut">切り取り</string>
     <string name="public_decryptDocument">暗号化の解除</string>
-    <string name="public_default_app_packageName">WPS文档查看器</string>
-    <string name="public_default_pdf_lable_name">WPS-PDF查看器</string>
-    <string name="public_default_ppt_lable_name">WPS演示查看器</string>
-    <string name="public_default_sheet_lable_name">WPS表格查看器</string>
-    <string name="public_default_writer_lable_name">WPS文字查看器</string>
+    <string name="public_default_app_packageName">WPS ドキュメントビューア</string>
+    <string name="public_default_pdf_lable_name">WPS-PDF ビューア</string>
+    <string name="public_default_ppt_lable_name">WPS プレゼンテーションビューア</string>
+    <string name="public_default_sheet_lable_name">WPS テーブルビューア</string>
+    <string name="public_default_writer_lable_name">WPS テキストビューア</string>
     <string name="public_displayPasswd">パスワードを表示</string>
     <string name="public_display_privacy_policy">プライバシーポリシーを表示</string>
     <string name="public_doc_end_preview_tip">Powered by WPS Office</string>
@@ -274,7 +274,7 @@
     <string name="public_et_filter_search_empty">请输入查找内容</string>
     <string name="public_exit_phonemode">モバイルビューを終了</string>
     <string name="public_exit_play">終了</string>
-    <string name="public_export_pdf">Export to PDF</string>
+    <string name="public_export_pdf">PDFでエクスポート</string>
     <string name="public_feedback">我要反馈</string>
     <string name="public_fileNotExist">ファイルは存在しません。ファイルは、他のプログラムによって名前変更、移動、消去、または削除された可能性があります。</string>
     <string name="public_file_cant_write_tips">"ファイルを現在のディレクトリに保存できません。新しいファイルとして別のディレクトリに保存しますか？"</string>
@@ -315,7 +315,7 @@
     <string name="public_mi_other_app_open_save_choose">この選択を記憶</string>
     <string name="public_mi_other_app_open_title">開く</string>
     <string name="public_mi_privacy_desc">For viewing and managing documents on this device</string>
-    <string name="public_mi_privacy_purpose">Welcome to Mi Doc Viewer (Powered by WPS)! This is a custom version of the app created by Kingsoft for Xiaomi. You can use this app to view documents on your device.</string>
+    <string name="public_mi_privacy_purpose">Mi ドキュメントビューア (Powered by WPS) へようこそ！これは、KingsoftがXiaomiのために開発をしたカスタムバージョンのアプリです。このアプリを使って、デバイス上のドキュメントを表示する事ができます。</string>
     <string name="public_more_operate">更多操作</string>
     <string name="public_more_operate_fail">操作失败，没有更多可操作内容</string>
     <string name="public_no_format">形式なし</string>
@@ -336,7 +336,7 @@
     <string name="public_other_app">別のアプリで開く</string>
     <string name="public_outline">コンテンツ</string>
     <string name="public_paste">貼り付け</string>
-    <string name="public_pdf2word">PDF to Word</string>
+    <string name="public_pdf2word">PDFからWordにする</string>
     <string name="public_pdfFillForm">Fill Form</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">標準</string>
@@ -357,7 +357,7 @@
     <string name="public_picture_savefail">图片损坏，无法保存</string>
     <string name="public_play">再生</string>
     <string name="public_ppt_label">Mi プレゼンテーションビューアー</string>
-    <string name="public_privacy_policy">Privacy Policy</string>
+    <string name="public_privacy_policy">プライバシーポリシー</string>
     <string name="public_privacy_update">&lt;Data&gt;ユーザーとしての権利と、当社による個人データの使用方法を十分に理解するため、新しいバージョンの&lt;a href=\"%s\"&gt;プライバシーポリシー&lt;/a&gt;を読み、同意した上で次に進んでください。&lt;/Data&gt;</string>
     <string name="public_re_licensing">承認を付与</string>
     <string name="public_readOnlyMode">読み取り専用</string>
@@ -419,7 +419,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">ドキュメントは他のアプリによって削除され、WPS Cloud Docsによって復元されました。</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"最後に編集したコンテンツは保存されず、WPS Cloud Docsによって復元されました。"</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">ドキュメントを安全に保存</string>
-    <string name="public_writer2pic">Export to Image-Only File</string>
+    <string name="public_writer2pic">画像のみのファイルにエクスポート</string>
     <string name="public_writer_font_enlarge">放大字号</string>
     <string name="public_writer_font_narrow">缩小字号</string>
     <string name="public_writer_label">Mi テキストビューアー</string>
@@ -428,7 +428,7 @@
     <string name="public_writer_words">字数</string>
     <string name="reader_ppt_autoplay">autoplay</string>
     <string name="reader_ppt_play_exit">exit</string>
-    <string name="reader_ppt_play_options">Options</string>
+    <string name="reader_ppt_play_options">オプション</string>
     <string name="reader_ppt_slide_list_new">Insert</string>
     <string name="reader_public_cancel">cancel</string>
     <string name="reader_public_close">close</string>
@@ -439,11 +439,11 @@
     <string name="reader_writer_delete_comment">delete the comment</string>
     <string name="reader_writer_hide">less</string>
     <string name="reader_writer_more">more</string>
-    <string name="reader_writer_page_num">page %1$s</string>
+    <string name="reader_writer_page_num">ページ: %1$s</string>
     <string name="reader_writer_paste_options">paste options</string>
     <string name="reader_writer_reject_revision">reject the revision</string>
-    <string name="reader_writer_table_edit_add_column">add column</string>
-    <string name="reader_writer_table_edit_add_row">add row</string>
+    <string name="reader_writer_table_edit_add_column">カラムを追加</string>
+    <string name="reader_writer_table_edit_add_row">行を追加</string>
     <string name="search_menu_title">検索</string>
     <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
     <string name="secret_internation_service_url">https://www.wps.com/eula</string>
