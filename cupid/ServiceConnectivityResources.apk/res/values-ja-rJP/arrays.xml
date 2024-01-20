@@ -17,10 +17,10 @@
     </string-array>
     <array name="config_wakeonlan_supported_interfaces"></array>
     <string-array name="network_switch_type_name">
-        <item>mobile data</item>
+        <item>モバイルデータ</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
-        <item>Ethernet</item>
+        <item>イーサネット</item>
         <item>VPN</item>
     </string-array>
 </resources>
