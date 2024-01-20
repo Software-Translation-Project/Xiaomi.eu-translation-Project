@@ -278,7 +278,7 @@
     <string name="month_september_shortest">9月</string>
     <string name="more">その他</string>
     <string name="morning">午前</string>
-    <string name="nfc_tip_ad2p_success">音乐接力成功</string>
+    <string name="nfc_tip_ad2p_success">ミュージックリレーに成功しました</string>
     <string name="nfc_wifi_connect_title">Wi-Fi自動接続</string>
     <string name="night">夜</string>
     <string name="noon">正午</string>
@@ -287,8 +287,8 @@
     <string name="notification_scanning">付近のデバイスを検索中…</string>
     <string name="ok">完了</string>
     <string name="pm">午後</string>
-    <string name="rationale_ask">This app may not work correctly without the requested permissions.</string>
-    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="rationale_ask">このアプリは、要求された権限を許可しないと正しく動作しない可能性があります。</string>
+    <string name="rationale_ask_again">このアプリは、要求された権限を許可しないと正しく動作しない可能性があります。アプリの権限を変更するには、アプリの設定画面を開いてください。</string>
     <string name="saturday">土曜日</string>
     <string name="saturday_short">土</string>
     <string name="saturday_shortest">土</string>
@@ -384,7 +384,7 @@
     <string name="time_picker_dialog_title">時刻を設定</string>
     <string name="time_picker_label_hour">時</string>
     <string name="time_picker_label_minute">分</string>
-    <string name="title_settings_dialog">Permissions Required</string>
+    <string name="title_settings_dialog">権限が必要です</string>
     <string name="today">今日</string>
     <string name="tomorrow">明日</string>
     <string name="tuesday">火曜日</string>
