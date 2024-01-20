@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1時間前</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d hour ago</item>
+        <item quantity="other">%d時間前</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">30分前</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In %d hour</item>
+        <item quantity="other">%d時間後</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">30分以内</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">今すぐ</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d mins</item>
+        <item quantity="other">%d分後</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">たった今</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
+        <item quantity="other">%d分前</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
@@ -91,10 +91,10 @@
         <item quantity="other">in %d minutes</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d items)</item>
+        <item quantity="other"> (%1$d個のアイテム)</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">たった今</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d minutes ago</item>
@@ -112,7 +112,7 @@
         <item quantity="other">"Couldn't sync %1$s files"</item>
     </plurals>
     <plurals name="notification_message_sync_result_success">
-        <item quantity="other">"Synced %1$s files | "</item>
+        <item quantity="other">"%1$s個のファイルが同期済み | "</item>
     </plurals>
     <plurals name="notification_title_syncing_with_count_no_network">
         <item quantity="other">Waiting for network connection. %1$s files remaining.</item>
@@ -124,7 +124,7 @@
         <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="number_of_comment_flow">
-        <item quantity="other">%1$s comments</item>
+        <item quantity="other">%1$s件のコメント</item>
     </plurals>
     <plurals name="original_user_days">
         <item quantity="other">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; days"</item>
@@ -142,7 +142,7 @@
         <item quantity="other">Found %1$s new videos</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Search results (%1$d items)</item>
+        <item quantity="other">検索結果 (%1$d個のアイテム)</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s related files (%2$d items)</item>
@@ -166,13 +166,13 @@
         <item quantity="other">You can enter %d characters</item>
     </plurals>
     <plurals name="video_ad_download_tip">
-        <item quantity="other"> Downloads</item>
+        <item quantity="other">  ダウンロード</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; videos</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d items</item>
+        <item quantity="other"> %1$d個のアイテム</item>
     </plurals>
     <plurals name="video_play_num">
         <item quantity="other">%1$s views</item>
