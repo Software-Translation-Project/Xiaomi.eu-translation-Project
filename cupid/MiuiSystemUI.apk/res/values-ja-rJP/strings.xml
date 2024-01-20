@@ -336,11 +336,11 @@
     <string name="bluetooth_talkback_input_peripheral">入力用周辺機器</string>
     <string name="bluetooth_talkback_phone">スマートフォン</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
-    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+    <string name="bottomsheet_action_collapse">ボトムシートを折りたたむ</string>
+    <string name="bottomsheet_action_expand">ボトムシートを展開する</string>
     <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
-    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
-    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="bottomsheet_drag_handle_clicked">ドラッグハンドルをダブルタップ</string>
+    <string name="bottomsheet_drag_handle_content_description">ドラッグハンドル</string>
     <string name="broadcasting_description_is_broadcasting">ブロードキャスト</string>
     <string name="bt_is_off">Bluetoothはオフです</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">出力を変更</string>
@@ -587,8 +587,8 @@
     <string name="csd_lowered_title">音量を安全なレベルまで下げました</string>
     <string name="csd_system_lowered_text">おすすめの時間よりも長い時間にわたってヘッドフォンの音量が大きく設定されています</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">了解</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"システムの最適化をオフにして、バッテリーセーバーをオンにすると、ダークモードが自動的にオンになります。
-ダークモードをオフにするには、バッテリーセーバーをオフにするか、[設定] &gt; [開発者向けオプション] &gt; [システムの最適化をオンにする] でシステムの最適化をオンにしてください。"</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"MIUIの最適化をオフにして、バッテリーセーバーをオンにすると、ダークモードが自動的にオンになります。
+ダークモードをオフにするには、バッテリーセーバーをオフにするか、[設定] &gt; [開発者向けオプション] &gt; [MIUIの最適化をオンにする] でMIUIの最適化をオンにしてください。"</string>
     <string name="dark_mode_power_save_alert_dialog_title">ダークモード</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
@@ -825,7 +825,7 @@
     <string name="font_scaling_smaller">縮小</string>
     <string name="forget_password_string_for_esim"><u>PUKコードを忘れた場合</u></string>
     <string name="format_chs_day">%s日</string>
-    <string name="format_chs_hour">%s时</string>
+    <string name="format_chs_hour">%sで</string>
     <string name="format_chs_minute">%s分</string>
     <string name="format_chs_month_day">%1$d月%2$d日</string>
     <string name="format_count_denominator">/ %s</string>
@@ -847,7 +847,7 @@
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s%2$s、%3$s、中国暦での日付: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s%2$s %3$s、祝日: %4$s</string>
     <string name="format_number_hour_desc">%s</string>
-    <string name="format_solar_lunar_calendar_month_day_desc">Holiday: %1$s, date according to the traditional Chinese calendar: %2$s</string>
+    <string name="format_solar_lunar_calendar_month_day_desc">休日: %1$s 中国伝統暦による日付: %2$s</string>
     <string name="format_week_day_style1">d日 EE</string>
     <string name="format_week_day_style1_desc">%1$s、月の日: %2$s</string>
     <string name="friday">金曜日</string>
@@ -911,8 +911,8 @@
     <string name="gxzw_quick_close">閉じる</string>
     <string name="gxzw_quick_open_add_event">イベントを追加</string>
     <string name="gxzw_quick_open_add_event_sub">カレンダー</string>
-    <string name="gxzw_quick_open_add_note">Add note</string>
-    <string name="gxzw_quick_open_add_note_sub">Notes</string>
+    <string name="gxzw_quick_open_add_note">メモを追加</string>
+    <string name="gxzw_quick_open_add_note_sub">メモ</string>
     <string name="gxzw_quick_open_alipay_pay">決済コード</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">スキャナー</string>
@@ -999,8 +999,8 @@
     <string name="input_password_after_boot_msg">デバイスの再起動後は、パスワードの入力が必要となります。</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中はスペースを切り替えられません"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"ワークステーションモードではスペースを切り替えられません"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Can't use Second space in Hibernation mode"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Can't use Second space due to low battery"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"ハイバネーションモードではセカンド・スペースは使用できません"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"バッテリーが不足しているためセカンド・スペースは使用できません"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"ペアレンタルコントロールがオンのときはスペースを切り替えられません"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"ウルトラバッテリーセーバーがオンのときはスペースを切り替えられません"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">デバイスの再起動後は、ファースト・スペースに入る必要があります</string>
@@ -1190,7 +1190,7 @@
     <string name="letterbox_restart_restart">再起動</string>
     <string name="location_status">現在地を共有中</string>
     <string name="location_status_content_description">%1$s さんが位置情報を共有しています</string>
-    <string name="lock_screen_access_to_5G">Access to 5G</string>
+    <string name="lock_screen_access_to_5G">5Gにアクセス</string>
     <string name="lock_screen_carrier_airplane_mode_on">機内モード</string>
     <string name="lock_screen_magazine_default_content">フレッシュな画像を毎日提供</string>
     <string name="lock_screen_magazine_default_title">壁紙カルーセル</string>
@@ -1308,10 +1308,10 @@
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_clock_time_format_12">hh:mm</string>
     <string name="miui_clock_time_format_24">HH:mm</string>
-    <string name="miui_keyboard_shortcut_click">Press</string>
-    <string name="miui_keyboard_shortcut_double_click">Double press</string>
-    <string name="miui_keyboard_shortcut_system_dock">Show app dock</string>
-    <string name="miui_keyboard_shortcut_system_quickly_recent">Switch between recent apps</string>
+    <string name="miui_keyboard_shortcut_click">押す</string>
+    <string name="miui_keyboard_shortcut_double_click">2回押す</string>
+    <string name="miui_keyboard_shortcut_system_dock">アプリドックを表示</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">最近のアプリの切り替え</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetoothデバイスによりロックが解除されました</string>
     <string name="miui_lock_empty"></string>
     <string name="miui_lock_screen_date">M月d日 (EEE)</string>
@@ -1384,7 +1384,7 @@ EEE"</string>
     <string name="miui_snooze_until_unlock_screen">ロックされるまで</string>
     <string name="miui_snooze_user_set_fail">その他のオプションについては、[設定] &gt; [通知とコントロールセンター] に移動してください</string>
     <string name="miui_snooze_user_set_success">正常に適用されました。その他のオプションについては、[設定] &gt; [通知とコントロールセンター] に移動してください。</string>
-    <string name="miui_unimportant_notifications">それ以前の通知</string>
+    <string name="miui_unimportant_notifications">重要でない通知</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -1937,7 +1937,7 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="remote_input_image_insertion_text">画像を送信しました</string>
     <string name="remove_from_settings">設定から削除</string>
     <string name="remove_from_settings_prompt">設定からシステムUI調整ツールを削除して、全機能の使用を停止しますか？</string>
-    <string name="report_rejected_touch">Report rejected touch</string>
+    <string name="report_rejected_touch">タッチの拒否を報告</string>
     <string name="require_unlock_for_nfc">NFC を使用するには、ロックを解除してください</string>
     <string name="reset">リセット</string>
     <string name="restart_button_description">タップしてこのアプリを再起動すると、より見やすく表示されます。</string>
@@ -2109,15 +2109,15 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="status_bar_work">仕事用プロファイル</string>
     <string name="stream_accessibility">ユーザー補助機能</string>
     <string name="stream_alarm">アラーム</string>
-    <string name="stream_assistant">Voice assistant</string>
+    <string name="stream_assistant">音声アシスタント</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">デュアルトーン マルチ周波数</string>
     <string name="stream_music">メディア</string>
     <string name="stream_notification">通知</string>
     <string name="stream_ring">着信音</string>
     <string name="stream_system">システム</string>
-    <string name="stream_system_enforced">System enforced</string>
-    <string name="stream_tts">Transmitted Through Speaker</string>
+    <string name="stream_system_enforced">システムを強制</string>
+    <string name="stream_tts">スピーカーから送信</string>
     <string name="stream_voice_call">発信</string>
     <string name="strong_toast_charging">充電中</string>
     <string name="strong_toast_quick_charging">急速充電中</string>
@@ -2127,9 +2127,9 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
     <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
     <string name="sudFontSecondaryText">google-sans-text</string>
-    <string name="sud_back_button_label">Back</string>
-    <string name="sud_more_button_label">More</string>
-    <string name="sud_next_button_label">Next</string>
+    <string name="sud_back_button_label">戻る</string>
+    <string name="sud_more_button_label">さらに表示</string>
+    <string name="sud_next_button_label">次へ</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="summary_empty"></string>
     <string name="sunday">日曜日</string>
@@ -2183,8 +2183,8 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="tuesday_shortest">火</string>
     <string name="tuner_app">%1$s アプリ</string>
     <string name="tuner_circle">サークル</string>
-    <string name="tuner_doze">Ambient Display</string>
-    <string name="tuner_doze_always_on">Always on</string>
+    <string name="tuner_doze">アンビエント表示</string>
+    <string name="tuner_doze_always_on">常にオン</string>
     <string name="tuner_full_importance_settings">電源通知管理</string>
     <string name="tuner_launch_app">%1$s を起動</string>
     <string name="tuner_left">左</string>
