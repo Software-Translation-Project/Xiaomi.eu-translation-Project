@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="accept">OK</string>
     <string name="app_name">Xiaomiサービスフレームワーク</string>
-    <string name="app_update_dialog_btn_bg_update">Update</string>
+    <string name="app_update_dialog_btn_bg_update">アップデート</string>
     <string name="app_update_dialog_btn_cancel">Not now</string>
     <string name="app_update_dialog_btn_update">Update</string>
     <string name="app_update_dialog_desc_title">"What's new"</string>
