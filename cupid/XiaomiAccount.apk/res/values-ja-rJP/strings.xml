@@ -85,7 +85,7 @@
     <string name="area_code_no_search_result">"該当結果が見つかりませんでした"</string>
     <string name="area_code_search_hint">国または地域を検索</string>
     <string name="auth_fail_warning">セッションの有効期限が切れました。後で再度サインインしてください。</string>
-    <string name="auto_fill_not_sport_on_water_mark_version">"Autofill sign-in isn't supported on watermarked versions"</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"透かしの入ったバージョンでは、自動入力サインインはサポートされていません"</string>
     <string name="bind_facebook">Facebookアカウントに接続する</string>
     <string name="bind_google">Googleアカウントに接続する</string>
     <string name="bind_safe_phone_msg">電話番号を追加すると、次回からXiaomi アカウントにサインインできるようになります。</string>
@@ -437,11 +437,11 @@
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Range end,</string>
     <string name="material_slider_range_start">Range start,</string>
-    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_am">午前</string>
     <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
     <string name="material_timepicker_hour">時間</string>
     <string name="material_timepicker_minute">分</string>
-    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_pm">午後</string>
     <string name="material_timepicker_select_time">時間を選択</string>
     <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
     <string name="mi_account">マイ アカウント</string>
@@ -589,14 +589,14 @@
     <string name="off">オフ</string>
     <string name="ok">OK</string>
     <string name="on">オン</string>
-    <string name="operator_broadnet">チャイナブロードネット</string>
-    <string name="operator_mobile">チャイナ・モバイル</string>
-    <string name="operator_mobile_agreement">認証サービスはチャイナ・モバイルが提供しています</string>
+    <string name="operator_broadnet">China Broadnet</string>
+    <string name="operator_mobile">China Mobile</string>
+    <string name="operator_mobile_agreement">認証サービスはChina Mobileが提供しています</string>
     <string name="operator_other">電話番号</string>
-    <string name="operator_telecom">チャイナ・テレコム</string>
+    <string name="operator_telecom">China Telecom</string>
     <string name="operator_telecom_agreement">認証サービスはeSurfingアカウントが提供しています</string>
-    <string name="operator_unicom">チャイナ・ユニコム</string>
-    <string name="operator_unicom_agreement">認証サービスはチャイナ・ユニコムが提供しています</string>
+    <string name="operator_unicom">China Unicom</string>
+    <string name="operator_unicom_agreement">認証サービスはChina Unicomが提供しています</string>
     <string name="optional_permissions">任意のアクセス許可</string>
     <string name="page_load_failed">"ページを開けません"</string>
     <string name="passport_access_denied">アクセスが拒否されました</string>
@@ -723,7 +723,7 @@
     <string name="passport_getting_activator_phone">SIM情報を取得中…</string>
     <string name="passport_getting_verify_code">取得中</string>
     <string name="passport_google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
-    <string name="passport_google_login">先ほど使用したGoogle アカウントでMi アカウントにサインインしますか？</string>
+    <string name="passport_google_login">先ほど使用したGoogle アカウントでXiaomi アカウントにサインインしますか？</string>
     <string name="passport_google_login_agree">Google アカウント</string>
     <string name="passport_google_login_btn_content_description">Googleでサインイン</string>
     <string name="passport_google_login_disagree">Xiaomi アカウント</string>
@@ -1123,16 +1123,16 @@
 &lt;/Data&gt;</string>
     <string name="user_license_without_3rd_unicom">&lt;Data&gt;Xiaomi アカウントの&lt;a href=%1$s&gt;利用規約&lt;/a&gt;と&lt;a href=%2$s&gt;プライバシーポリシー&lt;/a&gt;、および&lt;a href=%3$s&gt;チャイナ・ユニコム認証サービス利用規約&lt;/a&gt;を読み、同意しました。
 &lt;/Data&gt;</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">オフ</string>
+    <string name="v7_preference_on">オン</string>
     <string name="wednesday">水曜日</string>
     <string name="wednesday_short">水</string>
     <string name="wednesday_shortest">水</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">WeChatでサインイン</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">今はしない</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">アップデート</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">アップデートが利用可能です</string>
     <string name="yesterday">昨日</string>
 </resources>
