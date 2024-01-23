@@ -30,12 +30,12 @@
     <string name="accept">OK</string>
     <string name="app_name">Xiaomiサービスフレームワーク</string>
     <string name="app_update_dialog_btn_bg_update">アップデート</string>
-    <string name="app_update_dialog_btn_cancel">Not now</string>
-    <string name="app_update_dialog_btn_update">Update</string>
+    <string name="app_update_dialog_btn_cancel">今はしない</string>
+    <string name="app_update_dialog_btn_update">アップデート</string>
     <string name="app_update_dialog_desc_title">"What's new"</string>
-    <string name="app_update_dialog_support">Updates are provided by GetApps</string>
-    <string name="app_update_dialog_tag_save_traffic">省流量</string>
-    <string name="app_update_dialog_title">An update is available</string>
+    <string name="app_update_dialog_support">アップデートはGetAppsによって提供されます</string>
+    <string name="app_update_dialog_tag_save_traffic">トラフィックを節約する</string>
+    <string name="app_update_dialog_title">アップデートが利用可能です</string>
     <string name="error_device_id_message">"無効なデバイスID: %s
 デバイスIDは有効なIMEI番号或いはMACアドレスである必要があります。デバイスIDがないと、Xiaomi アカウントとXiaomi Cloudの一部の機能を利用できません。"</string>
     <string name="error_device_id_title">"有効なデバイスIDを取得できません"</string>
@@ -44,7 +44,7 @@
     <string name="explain_send_sms_permission_title">電話番号を認証する</string>
     <string name="pop_up_allow_notify_dialog">許可</string>
     <string name="pop_up_deny_notify_dialog">拒否</string>
-    <string name="search_menu_title">Search</string>
+    <string name="search_menu_title">検索</string>
     <string name="size_unit_gigabyte">%1$sGB</string>
     <string name="size_unit_kilobyte">%1$sKB</string>
     <string name="size_unit_megabyte">%1$sMB</string>
