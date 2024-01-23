@@ -825,7 +825,7 @@
     <string name="font_scaling_smaller">縮小</string>
     <string name="forget_password_string_for_esim"><u>PUKコードを忘れた場合</u></string>
     <string name="format_chs_day">%s日</string>
-    <string name="format_chs_hour">%sで</string>
+    <string name="format_chs_hour">%s時</string>
     <string name="format_chs_minute">%s分</string>
     <string name="format_chs_month_day">%1$d月%2$d日</string>
     <string name="format_count_denominator">/ %s</string>
