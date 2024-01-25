@@ -2204,7 +2204,7 @@ IT 管理者が、このデバイスに関連付けられている設定、コ�
     <string name="tv_notification_panel_no_notifications">通知はありません</string>
     <string name="tv_notification_panel_title">通知</string>
     <string name="two_weeks_timestamp">2 週間前</string>
-    <string name="ultraviolet_rays_abbreviation">UVI</string>
+    <string name="ultraviolet_rays_abbreviation">紫外線指数</string>
     <string name="unknown">不明</string>
     <string name="unlock_failed">内部エラー</string>
     <string name="unlock_to_see_notif_text">ロック解除して以前の通知を表示</string>
@@ -2257,7 +2257,7 @@ USB ポートを再び安全に使用できるようになりましたらお知�
     <string name="using_camera">このアプリはカメラにアクセスしています</string>
     <string name="using_camera_and_microphone">このアプリはカメラとマイクにアクセスしています</string>
     <string name="using_microphone">このアプリはマイクにアクセスしています</string>
-    <string name="uvi_format">UV指数 %1$s %2$s</string>
+    <string name="uvi_format">紫外線指数 %1$s %2$s</string>
     <string name="uvi_format_desc">紫外線指数: %1$s、%2$s</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
