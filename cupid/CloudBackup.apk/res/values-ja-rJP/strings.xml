@@ -426,7 +426,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="manage_backups">バックアップを管理</string>
     <string name="manage_cloud_backups">クラウドバックアップを管理</string>
     <string name="managespace_delete_backup">削除</string>
-    <string name="manual_request_notification_permission_dialog_negative_button">Close</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">閉じる</string>
     <string name="manual_request_notification_permission_dialog_positive_button">設定</string>
     <string name="manual_request_permissions_dialog_description">"\"%s\"のアクセス許可を付与しない場合、失敗したバックアップやその他の重要な操作に関する通知をタイムリーに受信できません。この許可は [設定] で付与できます。"</string>
     <string name="manual_request_permissions_dialog_title">アクセス許可が必要です</string>
@@ -773,8 +773,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday_shortest">火</string>
     <string name="unselected">未選択</string>
     <string name="unsupported_home">最新のシステムバージョンにアップデートしてください。</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">オフ</string>
+    <string name="v7_preference_on">オン</string>
     <string name="wait_icon_download">アプリアイコンをダウンロード中</string>
     <string name="wednesday">水曜日</string>
     <string name="wednesday_short">水</string>
