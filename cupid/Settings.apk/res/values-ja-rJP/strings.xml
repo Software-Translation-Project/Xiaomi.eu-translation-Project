@@ -1567,7 +1567,7 @@
     <string name="bluetooth_broadcast_dialog_broadcast_app">%1$s をブロードキャスト</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">近くにあるデバイスにメディアをブロードキャストするか、または他のユーザーのブロードキャストを聴きます</string>
     <string name="bluetooth_broadcast_dialog_find_message">近くで再生されているブロードキャストを聴きます</string>
-    <string name="bluetooth_broadcast_dialog_text">"Shared audio will be encrypted and available to compatible devices. During the broadcast, sound won't be played on this device and connected Bluetooth devices."</string>
+    <string name="bluetooth_broadcast_dialog_text">"Audio will be automatically encrypted during broadcasts. Only nearby devices that support audio broadcasting can find and listen to your broadcasts. This device's speakers and other connected Bluetooth devices that don't support audio broadcasting will remain silent."</string>
     <string name="bluetooth_broadcast_dialog_title">ブロードキャスト</string>
     <string name="bluetooth_broadcast_pin_configure">ブロードキャスト: Bluetoothプライバシーコード</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Broadcast: Configure Bluetooth Privacy Code</string>
@@ -2229,8 +2229,9 @@ CA 証明書をインストールすると、あなたがアクセスしたウ�
     <string name="camera_grip_firmware_need_update">アップデート</string>
     <string name="camera_grip_firmware_new_version">Up to date</string>
     <string name="camera_grip_firmware_title_text">ファームウェアをアップデート</string>
+    <string name="camera_grip_firmware_update_describe">Keep the grip connected throughout the update process</string>
     <string name="camera_grip_firmware_update_faild">"アップデートできませんでした"</string>
-    <string name="camera_grip_firmware_update_ongoing">アップデート中…</string>
+    <string name="camera_grip_firmware_update_ongoing">"Updating. Don't disconnect the grip."</string>
     <string name="camera_grip_firmware_update_successful">正常に更新されました</string>
     <string name="camera_key_action_app_title">アプリを開く</string>
     <string name="camera_key_action_category_title">"カメラは使用できません"</string>
@@ -3379,6 +3380,10 @@ Please send this code to the technician."</string>
     <string name="display_cutout_emulation">ディスプレイ カットアウト</string>
     <string name="display_cutout_emulation_keywords">ディスプレイ カットアウト, ノッチ</string>
     <string name="display_dashboard_summary">ダークモード、フォントサイズ、明るさ</string>
+    <string name="display_notification_icon_0">None</string>
+    <string name="display_notification_icon_1">%d icon</string>
+    <string name="display_notification_icon_3">%d icons</string>
+    <string name="display_notification_icon_5">%d icons</string>
     <string name="display_prompt_confirm">了解</string>
     <string name="display_settings">ディスプレイ</string>
     <string name="display_settings_new">ディスプレイと明るさ</string>
@@ -9263,6 +9268,7 @@ OTGは、10分間使用されないと自動的にオフになります。"</str
     <string name="slight_pause">、</string>
     <string name="slot_number">" (スロット %1$d)"</string>
     <string name="slot_status_title">IMEI情報</string>
+    <string name="small_window_not_support_add_data_toast">"Can't record data in floating windows. Switch to full screen and try again."</string>
     <string name="smallwindow_smartcover_title">小さな窓のフロントカバー</string>
     <string name="smart_battery_footer">バッテリー使用量が多いと判断されたアプリは、バッテリー マネージャによって制限されます。制限されたアプリは正常に動作しない場合や、通知が遅れる可能性があります。</string>
     <string name="smart_battery_manager_title">バッテリー マネージャ</string>
@@ -10145,6 +10151,7 @@ Withdraw consent to %s now?"</string>
     <string name="title_quick_control_all_devices">Show controls for nearby devices</string>
     <string name="title_regional_pref_footer">If an app doesn’t support regional preferences, the app will use its default locale settings.</string>
     <string name="title_show_notification_icon">通知アイコンを表示</string>
+    <string name="title_show_notification_icon_count">Number of notification icons shown</string>
     <string name="title_smart_device_control">スマートデバイスコントロール</string>
     <string name="title_special_features_health_global">心拍数</string>
     <string name="title_unavailable_locale">%sは使用できません</string>
