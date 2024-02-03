@@ -271,6 +271,7 @@
     <string name="chromecast_playing">"このビデオをChromecastで視聴しています"</string>
     <string name="clear_text_end_icon_content_description">テキストを消去</string>
     <string name="clearable_edittext_clear_description">消去</string>
+    <string name="click_to_open_ad">Tap to learn more</string>
     <string name="click_to_open_pip">タップしてピクチャー・イン・ピクチャーに切り替える</string>
     <string name="click_to_play_video_push_context">タップしてビデオを再生</string>
     <string name="click_to_reload_more">タップしてもっと読み込む</string>
@@ -293,8 +294,8 @@
     <string name="columbus_player_speed_video">Skip VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="columbus_skip_ad">スキップ</string>
-    <string name="com.crashlytics.android.build_id">7370b57ad8c142aea1ada02f18aeec0e</string>
-    <string name="com.miapm.build_id">1d82e4e8fee144f48a7860a311d8fccc</string>
+    <string name="com.crashlytics.android.build_id">1c1c1e5f65e846aca198836853cc95a6</string>
+    <string name="com.miapm.build_id">66cbcc2afcb64935aaf96438600099bb</string>
     <string name="com_permission_desc">"Mi ビデオは、デバイス上のビデオにアクセスできません。設定でアクセスを許可してください。"</string>
     <string name="com_permission_title">アクセス許可が必要です</string>
     <string name="comment_model_add_comment">コメントを追加</string>
@@ -962,6 +963,8 @@ Mi Video needs to collect necessary personal information to provide you with bas
     <string name="local_subtitle_input_keyword_text">Search keywords</string>
     <string name="local_tip_act_for_android_u">Edit</string>
     <string name="local_tip_info_for_android_u">"You've only allowed Mi Video to display some videos."</string>
+    <string name="local_tip_info_for_no_audio">"Can't access audio files saved to your device. Grant the required permissions first."</string>
+    <string name="local_tip_info_for_no_video">"Can't access videos saved to your device. Grant the required permissions first."</string>
     <string name="local_video_create_a_new_playlist">新しいプレイリスト</string>
     <string name="local_video_date">日付</string>
     <string name="local_video_dialog_default">デフォルト</string>
@@ -1685,6 +1688,7 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="popup_pip_activate_button">設定</string>
     <string name="popup_pip_not_activated">まず、Mi ビデオがピクチャー・イン・ピクチャーを使用することを許可してください。</string>
     <string name="popup_window_home_tip">オンラインビデオをダウンロード</string>
+    <string name="popup_window_small_tag_tip">Tap a tag to view all videos in that category</string>
     <string name="pre_ad">·AD</string>
     <string name="preference_copied">「%1$s」をクリップボードにコピーしました。</string>
     <string name="privacy_agree_subtitle">プライバシーポリシーに同意することで、Mi ビデオのすべての機能を利用することができます</string>
@@ -1792,6 +1796,8 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="settings_inline_auto_play_wify">Wi-Fi接続時のみ自動再生</string>
     <string name="settings_inline_title">ページの自動再生を開始</string>
     <string name="settings_manager_hidden_folder">隠しビデオを管理</string>
+    <string name="shake_or_click_to_open_ad">Shake or tap to learn more</string>
+    <string name="shake_to_open_ad">Shake to learn more</string>
     <string name="share">共有</string>
     <string name="share_text_before_link">Mi ビデオでは素晴らしいビデオを無料で視聴およびダウンロードできます</string>
     <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
@@ -1807,8 +1813,14 @@ We will only use this permission to find the videos you search for, and won't ac
     <string name="sign_in_title">Mi アカウントでサインイン</string>
     <string name="skip_ad">Skip</string>
     <string name="slid_fail_message">"保存できませんでした"</string>
+    <string name="slide_or_click_to_open_ad">Slide or tap to learn more</string>
     <string name="slide_save_message">ビデオを生成中…</string>
+    <string name="slide_to_open_ad">Slide to learn more</string>
     <string name="small_video_load_more_hint">上にスワイプすると、他のビデオを再生できます</string>
+    <string name="small_video_report">Report</string>
+    <string name="small_video_report_dialog_title">Select a reason</string>
+    <string name="small_video_report_submit">Submit</string>
+    <string name="small_video_report_success">Thanks for your feedback!</string>
     <string name="small_video_tab_expose_hint">タップすると他のショートビデオが見られます</string>
     <string name="sms_send_success">正常に送信されました</string>
     <string name="sns_access_token_expired_warning">セッションの期限が切れました。もう一度サインインしてこのアカウントに再接続してください。</string>
