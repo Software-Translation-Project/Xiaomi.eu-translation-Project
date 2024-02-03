@@ -308,6 +308,10 @@ NASA/JPL/アリゾナ大学"</string>
     <string name="month_september">9月</string>
     <string name="month_september_short">9月</string>
     <string name="month_september_shortest">9月</string>
+    <string name="moon_id">moon</string>
+    <string name="moon_summary">"Humanity's \"one small step\" toward space exploration"</string>
+    <string name="moon_super_wallpaper_label">The Moon</string>
+    <string name="moon_title">The Moon</string>
     <string name="morning">午前</string>
     <string name="night">夜</string>
     <string name="noon">正午</string>
