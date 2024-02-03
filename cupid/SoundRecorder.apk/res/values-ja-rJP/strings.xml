@@ -256,7 +256,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">ダイアログ アイコン</string>
     <string name="invisible_mode_dialog_message">"シークレットモードではマイクを使用できません。まず、シークレットモードをオフにしてください。"</string>
@@ -460,15 +460,15 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="path_soundrecorder_setting">システムアプリ/レコーダー</string>
-    <string name="pause_status_focus_notification">一時停止中</string>
+    <string name="pause_status_focus_notification">Recording paused</string>
     <string name="permission_bluetooth">Bluetoothの接続状態にアクセス</string>
     <string name="permission_bluetooth_dialog_description">このデバイスが近くのデバイスと接続できるようにし、録画再生時にデバイスの切り替えが行えるようにします。</string>
     <string name="permission_bluetooth_title">権限の許可が必要です</string>
     <string name="permission_desc">アクセス許可の詳細</string>
     <string name="permission_dialog_cancel">キャンセル</string>
     <string name="permission_dialog_ok">設定</string>
-    <string name="permission_notification_description">コンテンツの録音、再生とコンテンツのダウンロード時のアラート</string>
-    <string name="permission_notification_dialog_description">"アプリの現在の状態のアラート"</string>
+    <string name="permission_notification_description">This app needs permission to send notifications to be able to send alerts when recording, playing, and downloading content.</string>
+    <string name="permission_notification_dialog_description">"This app needs permission to send notifications to be able to send alerts on the app's current status."</string>
     <string name="permission_notification_title">権限の許可が必要です</string>
     <string name="permission_read_phone_state">デバイス情報へのアクセス</string>
     <string name="permission_read_phone_state_description">着信時に自動的に録音を停止するために、通話状態にアクセスするため</string>
@@ -633,7 +633,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">録音中…</string>
     <string name="status_bar_recording_pause">レコーダーは一時停止しました</string>
-    <string name="stop_status_focus_notification">完了しました</string>
+    <string name="stop_status_focus_notification">Finished recording</string>
     <string name="storage_permission_dialog_title">ストレージへのアクセス許可が必要です</string>
     <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
     <string name="sunday">日曜日</string>
@@ -716,6 +716,7 @@
     <string name="toast_enter_silent_mode">録音中です、サイレントモードがオンです。</string>
     <string name="toast_exit_silent_mode">録音が完了しました、サイレントモードはオフです。</string>
     <string name="toast_max_record_time">%1$sは約%2$s録音できます</string>
+    <string name="toast_stop">Finished recording</string>
     <string name="toast_uninstall_fileexplorer">"ファイルマネージャーがインストールされていません"</string>
     <string name="today">今日</string>
     <string name="tomorrow">明日</string>
