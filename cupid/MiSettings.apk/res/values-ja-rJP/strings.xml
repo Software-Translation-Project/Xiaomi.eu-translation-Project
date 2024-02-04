@@ -393,6 +393,7 @@
     <string name="focus_time_exception_tip">システム時刻が変更されたようです。集中モードをオフにしました。</string>
     <string name="follow_apps_settings">アプリの設定に基づく</string>
     <string name="follow_sim1">SIM 1の設定を適用</string>
+    <string name="footer_global_fps">"%1$d。パフォーマンスモードをオンにするとリフレッシュレートがシステム最大値の%2$d Hzに切り替わります。高リフレッシュレートのアプリ設定は一時的に使用できなくなります。"</string>
     <string name="footer_max_fps" formatted="false">"
 %d. リフレッシュレートは、サポートされているアプリやゲームで最大%s Hzまで調整可能です。"</string>
     <string name="force_rest">セッション休憩を使用</string>
@@ -680,7 +681,9 @@
     <string name="scarlet_macaw">Macaw</string>
     <string name="scarlet_macaw_info">Macaws are long-tailed, often colorful, New World parrots.</string>
     <string name="screen_cancel">キャンセル</string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">オンにする</string>
+    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">固定レートを使用することで消費電力を削減します</string>
     <string name="screen_fps_summary_smooth">一部のアプリは、リフレッシュレートを自動的に上げて画質を改善します</string>
     <string name="screen_fps_title">リフレッシュレート</string>
