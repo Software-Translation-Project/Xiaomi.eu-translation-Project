@@ -31,7 +31,6 @@
     <string name="add_sound">カスタムプリセットを追加</string>
     <string name="afternoon">午後</string>
     <string name="am">午前</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_disable_description_title">このアプリを無効にしますか？</string>
     <string name="app_name">イヤホン</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
