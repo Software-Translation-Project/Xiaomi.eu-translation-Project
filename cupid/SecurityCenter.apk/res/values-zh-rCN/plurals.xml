@@ -388,7 +388,7 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">Delete %d residual APKs</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d battery usage issues</item>
+        <item quantity="other">%d items with high power consumption</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Optimize %d items to save battery</item>
@@ -718,7 +718,7 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">times</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d battery usage issues</item>
+        <item quantity="other">%d items with high power consumption</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d days "</item>
@@ -742,7 +742,7 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">Fix %d battery usage issues</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">You can fix %d battery usage issues</item>
+        <item quantity="other">You can optimize power consumption for %d items</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d items can be optimized"</item>
@@ -782,6 +782,9 @@ You can get a %d-day free trial now!"</item>
     </plurals>
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Turn on to add %s mins of screen time</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Got it (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Got it (%ds)</item>
@@ -859,7 +862,7 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">Found %d battery issues, fix them</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Resolved %d battery issues</item>
+        <item quantity="other">Optimized %d items with high power consumption</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Factory reset (%ds)</item>
@@ -944,6 +947,9 @@ You can get a %d-day free trial now!"</item>
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">Cleared %d viruses</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d viruses or risky apps</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d apps</item>

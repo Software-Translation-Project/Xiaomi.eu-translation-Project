@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">受け入れる</string>
+    <string name="accept">同意する</string>
     <string name="add">追加</string>
     <string name="add_named">追加： %1$s</string>
     <string name="add_printer_by_ip">IPアドレスでプリンターを追加</string>

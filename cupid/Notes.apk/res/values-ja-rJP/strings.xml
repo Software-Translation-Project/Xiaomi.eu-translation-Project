@@ -969,6 +969,7 @@
     <string name="time_picker_dialog_title">時刻を設定</string>
     <string name="time_picker_label_hour">時</string>
     <string name="time_picker_label_minute">分</string>
+    <string name="to_view_alarm_content">Tap to view</string>
     <string name="toast_cancel_to_insert_image">"画像を追加できませんでした。"</string>
     <string name="toast_excerpt_end">抜粋が正常に作成されました</string>
     <string name="toast_excerpt_no_content">ここに抜粋はありません</string>
@@ -1068,6 +1069,7 @@
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="view_all_notes">すべて表示</string>
+    <string name="warn_cannot_add_more_content">"This note has reached its maximum length. Any more content you add won't be saved."</string>
     <string name="warn_cannot_add_new_bullet">"メモが長すぎるため、新しい箇条書きリストを追加できません"</string>
     <string name="warn_cannot_add_new_checkbox">"メモが長すぎるため、新しいチェックボックスを追加できません"</string>
     <string name="warn_cannot_add_new_content">"メモが長すぎるため、新しいコンテンツを追加できません"</string>

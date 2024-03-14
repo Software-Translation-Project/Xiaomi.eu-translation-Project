@@ -4,13 +4,13 @@
         <item quantity="other">%d日前</item>
     </plurals>
     <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
+        <item quantity="other">%1$d日後</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">%1$d日後の%2$s</item>
     </plurals>
     <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
+        <item quantity="other">%1$d日前</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d日前の%2$s</item>
@@ -139,7 +139,7 @@
         <item quantity="other">%d+</item>
     </plurals>
     <plurals name="n_attendees">
-        <item quantity="other">%1$d个邀请对象</item>
+        <item quantity="other">%1$d名の参加者</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">日</item>

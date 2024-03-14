@@ -32,17 +32,17 @@
     <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
     <string name="abc_toolbar_collapse_description">折りたたむ</string>
     <string name="app_name">MConnService</string>
-    <string name="assist_center_title">Used currently</string>
-    <string name="assist_center_traffic_title">Remaining</string>
-    <string name="assist_key1_title">Used today</string>
-    <string name="assist_key2_title">Data plan</string>
+    <string name="assist_center_title">現在の使用量</string>
+    <string name="assist_center_traffic_title">残り</string>
+    <string name="assist_key1_title">今日の使用量</string>
+    <string name="assist_key2_title">データプラン</string>
     <string name="gb">GB</string>
     <string name="kb">KB</string>
     <string name="mb">MB</string>
-    <string name="noti_key1_today_used">Today: %1$s</string>
-    <string name="noti_key2_remain">Remaining: %1$s</string>
-    <string name="noti_key2_used">Used: %1$s</string>
-    <string name="noti_key3">Details &gt;</string>
+    <string name="noti_key1_today_used">今日: %1$s</string>
+    <string name="noti_key2_remain">残り: %1$s</string>
+    <string name="noti_key2_used">使用済み: %1$s</string>
+    <string name="noti_key3">詳細 &gt;</string>
     <string name="search_menu_title">検索</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

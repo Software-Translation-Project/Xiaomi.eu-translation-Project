@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture_new_array">
-        <item>Alarm in less than %d minute</item>
-        <item>Alarm in %1$s</item>
-        <item>Alarm in %2$s</item>
-        <item>Alarm in %1$s %2$s</item>
+        <item>アラームが%d分以内に鳴ります</item>
+        <item>%1$sのアラーム</item>
+        <item>%2$sのアラーム</item>
+        <item>%1$s %2$sのアラーム</item>
         <item>Alarm in %3$s</item>
         <item>Alarm in %1$s %3$s</item>
         <item>Alarm in %2$s %3$s</item>
@@ -147,13 +147,13 @@
         <item>平日</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type_international">
-        <item>Mon to Fri</item>
-        <item>Every day</item>
+        <item>月～金</item>
+        <item>毎日</item>
     </string-array>
     <string-array name="bedtime_repeat_entires_international">
-        <item>Every day</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>毎日</item>
+        <item>月～金</item>
+        <item>カスタム</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>毎日</item>

@@ -227,13 +227,13 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>アニメーション オフ</item>
-        <item>アニメーションスケール 0.5x</item>
-        <item>アニメーションスケール 1x</item>
-        <item>アニメーションスケール 1.5x</item>
-        <item>アニメーションスケール 2x</item>
-        <item>アニメーションスケール 5x</item>
-        <item>アニメーションスケール 10x</item>
+        <item>アニメーションオフ</item>
+        <item>アニメーション スケール .5x</item>
+        <item>アニメーション スケール 1x</item>
+        <item>アニメーション スケール 1.5x</item>
+        <item>アニメーション スケール 2x</item>
+        <item>アニメーション スケール 5x</item>
+        <item>アニメーション スケール 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -420,12 +420,12 @@
         <item>ユーザー補助機能の音量</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>標準制限</item>
-        <item>バックグラウンドプロセスはありません</item>
-        <item>最大で1つのプロセス</item>
-        <item>最大で2つのプロセス</item>
-        <item>最大で3つのプロセス</item>
-        <item>最大で4つのプロセス</item>
+        <item>標準の上限</item>
+        <item>バックグラウンドプロセスを使用しない</item>
+        <item>プロセスの上限: 1</item>
+        <item>プロセスの上限: 2</item>
+        <item>プロセスの上限: 3</item>
+        <item>プロセスの上限: 4</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -567,32 +567,32 @@
         <item>134225920</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>システムの選択を使用する（デフォルト）</item>
-        <item>16 ビット/サンプル</item>
-        <item>24 ビット/サンプル</item>
-        <item>32 ビット/サンプル</item>
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>システムの選択を使用する（デフォルト）</item>
-        <item>16 ビット/サンプル</item>
-        <item>24 ビット/サンプル</item>
-        <item>32 ビット/サンプル</item>
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>16 ビット / サンプル</item>
+        <item>24 ビット / サンプル</item>
+        <item>32 ビット / サンプル</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>システムの選択を使用する（デフォルト）</item>
-        <item>モノ</item>
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
         <item>ステレオ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>システムの選択を使用する（デフォルト）</item>
-        <item>モノ</item>
+        <item>システムの選択（デフォルト）を使用</item>
+        <item>モノラル</item>
         <item>ステレオ</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>オーディオ品質に最適化</item>
-        <item>オーディオと接続品質のバランスを取る</item>
-        <item>接続品質に最適化</item>
-        <item>できる限りより良い音質を提供する (自動ビットレート)</item>
+        <item>音質重視で最適化</item>
+        <item>音質と接続の品質のバランスを確保</item>
+        <item>接続の品質重視で最適化</item>
+        <item>ベスト エフォート（アダプティブ ビットレート）</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>オーディオ品質に最適化 (990kbps/909kbps)</item>
@@ -667,12 +667,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive オーディオ</item>
         <item>Qualcomm® aptX™ TWS+ オーディオ</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>オプションのコーデックを有効にする</item>
         <item>オプションのコーデックを無効にする</item>
-        <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>システムの選択を使用 (デフォルト)</item>
@@ -683,12 +683,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive オーディオ</item>
         <item>Qualcomm® aptX™ TWS+ オーディオ</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>オプションのコーデックを有効にする</item>
         <item>オプションのコーデックを無効にする</item>
-        <item>Disable optional codecs</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -697,9 +697,9 @@
         <item>" | アクティブ (スマートフォン)"</item>
     </string-array>
     <string-array name="bluetooth_audio_routing_titles">
-        <item>Use app default</item>
-        <item>Play on hearing device</item>
-        <item>Play on phone speaker</item>
+        <item>アプリのデフォルトを使用する</item>
+        <item>補聴器で再生</item>
+        <item>スマートフォンのスピーカーで再生</item>
     </string-array>
     <string-array name="bluetooth_audio_routing_values">
         <item>0</item>
@@ -713,9 +713,9 @@
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (デフォルト)</item>
+        <item>AVRCP 1.5（デフォルト）</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_broadcast_pin_config_titles">
@@ -734,7 +734,7 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (デフォルト)</item>
+        <item>MAP 1.2（デフォルト）</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
@@ -818,17 +818,17 @@
         <item>FR</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>無効済み</item>
-        <item>フィルター済み</item>
-        <item>有効済み</item>
-        <item>フィルター済みのヘッダー</item>
-        <item>フィルター済みのメディアパケット</item>
-        <item>Enabled Profiles Filtered</item>
+        <item>無効</item>
+        <item>有効（フィルタ済み）</item>
+        <item>有効</item>
+        <item>有効（ヘッダーのみ）</item>
+        <item>有効（メディアパケット除外）</item>
+        <item>有効 (プロファイルはフィルター処理されます)</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Leave only ACL headers</item>
-        <item>Filter A2DP media packets</item>
-        <item>Filter RFCOMM channel</item>
+        <item>ACLヘッダーのみを残す</item>
+        <item>A2DPメディアパケットをフィルタリング</item>
+        <item>RFCOMMチャンネルをフィルタリング</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_values">
         <item>headers</item>
@@ -836,10 +836,10 @@
         <item>profiles.rfcomm</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
-        <item>Disable</item>
-        <item>Fill with string of characters</item>
-        <item>Leave only header</item>
-        <item>Fully remove</item>
+        <item>無効</item>
+        <item>文字列で埋める</item>
+        <item>ヘッダーのみを残す</item>
+        <item>完全に削除</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_values">
         <item>disabled</item>
@@ -1416,13 +1416,13 @@
         <item>2500</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>強化された色合い</item>
-        <item>肉眼で見るのと同じような自然な色合い</item>
-        <item>デジタルコンテンツに最適化した色合い</item>
+        <item>拡張色</item>
+        <item>目に自然な色</item>
+        <item>デジタルコンテンツに最適な色</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>鮮やか (デフォルト)</item>
-        <item>ナチュラル</item>
+        <item>鮮やか（既定）</item>
+        <item>自然</item>
         <item>標準</item>
     </string-array>
     <string-array name="color_picker">
@@ -1582,9 +1582,9 @@
         <item>"先月: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>オフ</item>
+        <item>OFF</item>
         <item>オーバードロー領域の表示</item>
-        <item>2型3色覚者のための領域を表示</item>
+        <item>第二色弱の方向けの領域の表示</item>
     </string-array>
     <string-array name="debug_hw_overdraw_values">
         <item>false</item>
@@ -1748,8 +1748,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>なし</item>
         <item>Logcat</item>
-        <item>Systrace (グラフィック)</item>
-        <item>glGetErrorでコールスタック</item>
+        <item>Systrace（画像）</item>
+        <item>glGetErrorでのスタック呼び出し</item>
     </string-array>
     <string-array name="enable_opengl_traces_values">
         <item>0</item>
@@ -1931,14 +1931,14 @@
         <item>2</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCPチェックを使用しない</item>
-        <item>DRMコンテンツにのみHDCPチェックを使用</item>
-        <item>HDCPチェックを常に使用</item>
+        <item>HDCP チェックを使用しない</item>
+        <item>DRM コンテンツにのみ HDCP チェックを使用する</item>
+        <item>HDCP チェックを常に使用する</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>確認しない</item>
-        <item>DRMコンテンツのみ確認</item>
-        <item>常に確認</item>
+        <item>チェックしない</item>
+        <item>DRMコンテンツのみをチェック</item>
+        <item>常にチェック</item>
     </string-array>
     <string-array name="hdcp_checking_values">
         <item>never</item>
@@ -2443,6 +2443,18 @@
         <item>2</item>
         <item>1</item>
     </string-array>
+    <string-array name="notification_icon_counts_entries">
+        <item>@string/display_notification_icon_0</item>
+        <item>@string/display_notification_icon_1</item>
+        <item>@string/display_notification_icon_3</item>
+        <item>@string/display_notification_icon_5</item>
+    </string-array>
+    <string-array name="notification_icon_counts_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>検索</item>
         <item>設定</item>
@@ -2511,16 +2523,16 @@
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
         <item>480p</item>
-        <item>480p (安全)</item>
+        <item>480p（セキュア）</item>
         <item>720p</item>
-        <item>720p (安全)</item>
+        <item>720p（セキュア）</item>
         <item>1080p</item>
-        <item>1080p (安全)</item>
+        <item>1080p（セキュア）</item>
         <item>4K</item>
-        <item>4K (安全)</item>
-        <item>4K (アップスケール)</item>
-        <item>4K (アップスケール、安全)</item>
-        <item>720p、1080p (デュアル画面)</item>
+        <item>4K（セキュア）</item>
+        <item>4K（アップスケール）</item>
+        <item>4K（アップスケール、セキュア）</item>
+        <item>720p、1080p（デュアルスクリーン）</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
@@ -2919,26 +2931,26 @@
         <item>6</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>オフ</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>OFF</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>オフ</item>
-        <item>ログバッファ当たり64K</item>
-        <item>ログバッファ当たり256K</item>
-        <item>ログバッファ当たり1M</item>
-        <item>ログバッファ当たり4M</item>
-        <item>8M per log buffer</item>
+        <item>OFF</item>
+        <item>64 K / ログバッファ</item>
+        <item>256 K / ログバッファ</item>
+        <item>1 M / ログバッファ</item>
+        <item>4 M / ログバッファ</item>
+        <item>8 M / ログバッファ</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>オフ</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>8M</item>
+        <item>OFF</item>
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>8 M</item>
     </string-array>
     <string-array name="select_logd_size_values">
         <item>32768</item>
@@ -2957,15 +2969,15 @@
         <item>Verbose</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>オフ</item>
+        <item>OFF</item>
         <item>すべてのログバッファ</item>
-        <item>ラジオログバッファ以外のすべて</item>
-        <item>カーネルログバッファのみ</item>
+        <item>ラジオ ログバッファ以外すべて</item>
+        <item>カーネル ログ バッファのみ</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>オフ</item>
+        <item>OFF</item>
         <item>すべて</item>
-        <item>ラジオ以外のすべて</item>
+        <item>ラジオ以外すべて</item>
         <item>カーネルのみ</item>
     </string-array>
     <string-array name="select_logpersist_values">
@@ -2985,9 +2997,9 @@
         <item>@string/color_gray</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>オフ</item>
-        <item>非矩形のクリップ領域を青で描く</item>
-        <item>テスト描画コマンドを緑でハイライト表示する</item>
+        <item>OFF</item>
+        <item>非矩形クリップ領域を青で描画</item>
+        <item>テスト済み描画コマンドを緑でハイライト表示</item>
     </string-array>
     <string-array name="show_non_rect_clip_values">
         <item>hide</item>
@@ -3242,9 +3254,9 @@
         <item>0</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
-        <item>Never</item>
-        <item>After 1 minute</item>
-        <item>After 5 minutes</item>
+        <item>なし</item>
+        <item>1 分後</item>
+        <item>5 分後</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_values">
         <item>0</item>
@@ -3257,8 +3269,8 @@
         <item>ポップ</item>
     </string-array>
     <string-array name="tabs_taptic_detail_m2">
-        <item>Crisp</item>
-        <item>Solid</item>
+        <item>クリスプ</item>
+        <item>ソリッド</item>
     </string-array>
     <string-array name="tare_alarm_manager_actions">
         <item>@string/tare_wakeup_exact_idle</item>
@@ -3347,9 +3359,9 @@
         <item>null</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>オフ</item>
-        <item>画面上にバーとして表示</item>
-        <item>adb shell dumpsys gfxinfoの中</item>
+        <item>OFF</item>
+        <item>棒グラフとして画面に表示</item>
+        <item>adb shell dumpsys gfxinfo 内</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
@@ -3371,13 +3383,13 @@
         <item>"Wi-Fi使用量 "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>アニメーション オフ</item>
-        <item>アニメーションスケール 0.5x</item>
-        <item>アニメーションスケール 1x</item>
-        <item>アニメーションスケール 1.5x</item>
-        <item>アニメーションスケール 2x</item>
-        <item>アニメーションスケール 5x</item>
-        <item>アニメーションスケール 10x</item>
+        <item>アニメーションオフ</item>
+        <item>アニメーション スケール .5x</item>
+        <item>アニメーション スケール 1x</item>
+        <item>アニメーション スケール 1.5x</item>
+        <item>アニメーション スケール 2x</item>
+        <item>アニメーション スケール 5x</item>
+        <item>アニメーション スケール 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -3451,15 +3463,15 @@
         <item>이것은 한국어 음성 합성의 예입니다.</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>非常に遅い</item>
-        <item>遅い</item>
-        <item>標準</item>
-        <item>速い</item>
-        <item>より速い</item>
-        <item>非常に速い</item>
-        <item>高速</item>
-        <item>非常に高速</item>
-        <item>最速</item>
+        <item>60%</item>
+        <item>80%</item>
+        <item>100%</item>
+        <item>150%</item>
+        <item>200%</item>
+        <item>250%</item>
+        <item>300%</item>
+        <item>350%</item>
+        <item>400%</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -3487,9 +3499,9 @@
         <item>200</item>
     </string-array>
     <string-array name="typing_style_entries">
-        <item>Standard</item>
-        <item>Touch</item>
-        <item>Direct touch</item>
+        <item>標準</item>
+        <item>タッチ</item>
+        <item>ダイレクトタッチ</item>
     </string-array>
     <string-array name="typing_style_values">
         <item>1</item>
@@ -3497,10 +3509,10 @@
         <item>2</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Move left</item>
-        <item>Move down</item>
-        <item>Move right</item>
-        <item>Move up</item>
+        <item>左に移動</item>
+        <item>下に移動</item>
+        <item>右に移動</item>
+        <item>上に移動</item>
     </string-array>
     <string-array name="uplmn_cu_mcc_mnc_values">
         <item>46001</item>
@@ -3527,9 +3539,9 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>充電</item>
-        <item>MTP (メディア転送プロトコル)</item>
-        <item>PTP (画像転送プロトコル)</item>
-        <item>RNDIS (USBイーサネット)</item>
+        <item>MTP（Media Transfer Protocol）</item>
+        <item>PTP（Picture Transfer Protocol）</item>
+        <item>RNDIS（USBイーサネット）</item>
         <item>オーディオソース</item>
         <item>MIDI</item>
     </string-array>
@@ -3968,13 +3980,13 @@
         <item>接続不良により一時的に無効</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>アニメーション オフ</item>
-        <item>アニメーションスケール 0.5x</item>
-        <item>アニメーションスケール 1x</item>
-        <item>アニメーションスケール 1.5x</item>
-        <item>アニメーションスケール 2x</item>
-        <item>アニメーションスケール 5x</item>
-        <item>アニメーションスケール 10x</item>
+        <item>アニメーションオフ</item>
+        <item>アニメーション スケール .5x</item>
+        <item>アニメーション スケール 1x</item>
+        <item>アニメーション スケール 1.5x</item>
+        <item>アニメーション スケール 2x</item>
+        <item>アニメーション スケール 5x</item>
+        <item>アニメーション スケール 10x</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>

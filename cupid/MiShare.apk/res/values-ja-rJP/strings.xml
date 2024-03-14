@@ -32,9 +32,9 @@
     <string name="agree_desc">上記の必須のアクセス許可を付与します。</string>
     <string name="am">午前</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_name">MiShare</string>
-    <string name="asus">Asus</string>
-    <string name="asus_phone">Asus</string>
+    <string name="app_name">ShareMe</string>
+    <string name="asus">ASUS</string>
+    <string name="asus_phone">ASUS</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -122,7 +122,7 @@
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
     <string name="clearable_edittext_clear_description">消去</string>
-    <string name="close">閉じる</string>
+    <string name="close">戻る</string>
     <string name="complete">完了</string>
     <string name="confirm_cancel_receive">"今から転送をキャンセルすると、このアイテムを受信できなくなります。キャンセルしてもよろしいですか？"</string>
     <string name="confirm_cancel_task_files">%1$sへのファイル送信をキャンセルしますか？</string>
@@ -297,7 +297,7 @@
     <string name="heavenly_stems_wu">戊</string>
     <string name="heavenly_stems_xin">辛</string>
     <string name="heavenly_stems_yi">乙</string>
-    <string name="help">"デバイスが見つかりませんか？"</string>
+    <string name="help">"ヘルプ"</string>
     <string name="help_content">"必要なデバイスが見つからない場合は、相手にMi シェアをオンにするように依頼してください。"</string>
     <string name="hide">隠す</string>
     <string name="hisense">Hisense</string>
@@ -428,7 +428,7 @@ OPPO、vivo、realmeなどのスマートフォンメーカーがこの機能に
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">デバイスを接続するには、まずこのデバイスのWLANとBluetoothをオンにしてください。今すぐオンにしますか？</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Couldn't connect to computer. Make sure you've turned on Wi-Fi and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
     <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Couldn't connect to computer. Make sure you've turned on WLAN and Bluetooth on both your mobile device and computer, and that your computer is running Xiaomi PC Manager."</string>
-    <string name="nfc_share">NFCShare</string>
+    <string name="nfc_share">NFC 共有</string>
     <string name="nfc_wifi_and_bluetooth">Wi-FiとBluetoothをオンにする</string>
     <string name="nfc_wifi_and_bluetooth_china">WLANとBluetoothをオンにする</string>
     <string name="night">夜</string>

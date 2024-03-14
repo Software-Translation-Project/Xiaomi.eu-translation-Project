@@ -31,6 +31,7 @@
     <string name="about_mi_account">Xiaomi アカウントについて</string>
     <string name="accept">許可</string>
     <string name="account_and_password">パスワード</string>
+    <string name="account_auth_failed_message">"%1$sのXiaomiアカウントのサインイン資格情報の有効期限が切れました。もう一度やり直してください。"</string>
     <string name="account_bind_devices">デバイス</string>
     <string name="account_bind_secure_email_title">メールアドレスを追加</string>
     <string name="account_bind_secure_phone_title">電話番号を追加</string>
@@ -85,7 +86,7 @@
     <string name="area_code_no_search_result">"該当結果が見つかりませんでした"</string>
     <string name="area_code_search_hint">国または地域を検索</string>
     <string name="auth_fail_warning">セッションの有効期限が切れました。後で再度サインインしてください。</string>
-    <string name="auto_fill_not_sport_on_water_mark_version">"Autofill sign-in isn't supported on watermarked versions"</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">"透かしの入ったバージョンでは、自動入力サインインはサポートされていません"</string>
     <string name="bind_facebook">Facebookアカウントに接続する</string>
     <string name="bind_google">Googleアカウントに接続する</string>
     <string name="bind_safe_phone_msg">電話番号を追加すると、次回からXiaomi アカウントにサインインできるようになります。</string>
@@ -200,6 +201,47 @@
     <string name="cloud_service_status_cloud_not_open">オフ</string>
     <string name="cloud_service_status_storage_full">ストレージがいっぱいです</string>
     <string name="cloud_service_status_storage_not_enough">空き容量が足りません</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b&gt;facebook.com/device&lt;/b&gt; and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">読み込み中です…</string>
+    <string name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Facebookで続行</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">送信</string>
+    <string name="com_facebook_share_button_text">共有</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- または -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">ログインを確認</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">有効</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">GooglePlayサービスを有効化する</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">GooglePlayサービスを入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Playサービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">GooglePlayサービスエラー</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">GooglePlayサービスを更新</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">新しいバージョンのGoogle Playサービスが必要です。まもなく自動的に更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">サインイン</string>
+    <string name="common_signin_button_text_long">Googleでサインイン</string>
     <string name="completed">完了しました！</string>
     <string name="confirm_bundled_phone_dialog_confirm">確認</string>
     <string name="confirm_bundled_phone_dialog_confirm_timer">確認 (%d秒)</string>
@@ -218,6 +260,7 @@
     <string name="date_time_picker_dialog_title">日付と時刻を設定</string>
     <string name="default_error_message">入力値が無効です</string>
     <string name="default_popup_window_title">ポップアップウィンドウ</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="delete_bank_card_message">サインアウトすると、Mi Pay銀行カードとNFCカードが削除されます。</string>
     <string name="delete_bank_card_title">注意</string>
     <string name="delete_device_btn">削除</string>
@@ -263,9 +306,28 @@
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Facebookでサインイン</string>
+    <string name="facets_path">[{\"include\": \"https://account.xiaomi.com/.well-known/assetlinks.json\"}]</string>
     <string name="failed_dup_secure_phone_number">この電話番号はすでに他のXiaomi アカウントと関連付けられています</string>
     <string name="family_service">ファミリーサービス</string>
     <string name="family_service_not_open">メンバーを招待</string>
+    <string name="fcm_fallback_notification_channel_label">その他</string>
+    <string name="fido2_client_for_fingerprint_auth">タップで指紋認証をします</string>
+    <string name="fido2_close_fingerprint_auth">Turning off</string>
+    <string name="fido2_close_fingerprint_auth_desc">Turn off fingerprint verification now?</string>
+    <string name="fido2_err_already_registered">This account has already turned on this feature</string>
+    <string name="fido2_err_def">An error occurred. Wait a minute or two and try again.</string>
+    <string name="fido2_err_not_regisetered">"This account hasn't yet turned on this feature"</string>
+    <string name="fido2_err_not_support">"This feature isn't supported on this device"</string>
+    <string name="fido2_err_security">"Security risks detected. Can't use this feature."</string>
+    <string name="fido2_err_service_exception">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="fido2_err_timeout">The request timed out. Wait a minute or two and try again.</string>
+    <string name="fido2_fingerprint_auth">指紋認証</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Use your fingerprint to sign in to your Xiaomi Account and verify your identity &lt;a href=&gt;Learn more&lt;/a&gt;</Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Your device fingerprint has changed. Verify your account again to be able to turn on fingerprint verification.</string>
+    <string name="fido2_fingerprint_verify">Fingerprint verification</string>
+    <string name="fido2_psw_changed_and_afresh_register">Your password has changed. Verify your fingerprint again.</string>
+    <string name="fido2_setting_ps_notify">"You'll need to set an account password to be able to use fingerprint verification. You can do this in Settings &gt; Xiaomi Account &gt; Account security &gt; Password."</string>
+    <string name="fido2_verify_fingerprint">指紋認証</string>
     <string name="find_device">デバイスを探す</string>
     <string name="find_device_access_denied">"ステータスを取得できず、アクセスが拒否されました"</string>
     <string name="find_device_account_error">"アカウントエラーのためステータスを取得できません"</string>
@@ -351,13 +413,19 @@
     <string name="friday">金曜日</string>
     <string name="friday_short">金</string>
     <string name="friday_shortest">金</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
     <string name="get_back_password">パスワードをリセット</string>
     <string name="get_back_pwd">パスワードのリセット</string>
     <string name="get_identity_auth_url_failed">"IDを認証できませんでした"</string>
     <string name="get_phone_bind_exceed_limit">"1つの電話番号には、最大で%d個のXiaomi アカウントを関連付けることができます。新しいアカウントは追加できません。"</string>
     <string name="get_phone_verifycode_exceed_limit">"この番号にこれ以上認証コードを送信できません"</string>
+    <string name="go_to_setting">設定</string>
     <string name="google">Google</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:04e152f122e4397796ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
     <string name="google_login">Googleでサインイン</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="has_no_new_version">最新の状態です</string>
     <string name="health_action_activate">アクティブ化</string>
     <string name="health_action_install">インストール</string>
@@ -387,6 +455,7 @@
     <string name="indeterminate">オンでもオフでもありません</string>
     <string name="input_email_address_notice">"入力したアドレス宛に認証コードを記載したメールをお送りします。"</string>
     <string name="input_new_pwd">新しいパスワードを入力してください</string>
+    <string name="input_ps">パスワードを入力</string>
     <string name="io_error_title">ネットワークを確認してください</string>
     <string name="item_view_role_description">タブ</string>
     <string name="just_a_second">お待ちください…</string>
@@ -405,6 +474,7 @@
     <string name="login_notification_button_text">サインイン</string>
     <string name="login_notification_desc">クラウドサービスやファミリーストレージ容量などを楽しむことができます</string>
     <string name="login_notification_title">Xiaomi アカウントにサインイン</string>
+    <string name="login_or_register_by_other_way">その他の方法を使用する</string>
     <string name="login_with_other">その他のオプション</string>
     <string name="logout_account">サインアウト</string>
     <string name="logout_failed">"サインアウトできません"</string>
@@ -437,13 +507,14 @@
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Range end,</string>
     <string name="material_slider_range_start">Range start,</string>
-    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_am">午前</string>
     <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
     <string name="material_timepicker_hour">時間</string>
     <string name="material_timepicker_minute">分</string>
-    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_pm">午後</string>
     <string name="material_timepicker_select_time">時間を選択</string>
     <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="messenger_send_button_text">送信</string>
     <string name="mi_account">マイ アカウント</string>
     <string name="mi_health">Xiaomi Health</string>
     <string name="midnight">真夜中</string>
@@ -589,14 +660,14 @@
     <string name="off">オフ</string>
     <string name="ok">OK</string>
     <string name="on">オン</string>
-    <string name="operator_broadnet">チャイナブロードネット</string>
-    <string name="operator_mobile">チャイナ・モバイル</string>
-    <string name="operator_mobile_agreement">認証サービスはチャイナ・モバイルが提供しています</string>
+    <string name="operator_broadnet">China Broadnet</string>
+    <string name="operator_mobile">China Mobile</string>
+    <string name="operator_mobile_agreement">認証サービスはChina Mobileが提供しています</string>
     <string name="operator_other">電話番号</string>
-    <string name="operator_telecom">チャイナ・テレコム</string>
+    <string name="operator_telecom">China Telecom</string>
     <string name="operator_telecom_agreement">認証サービスはeSurfingアカウントが提供しています</string>
-    <string name="operator_unicom">チャイナ・ユニコム</string>
-    <string name="operator_unicom_agreement">認証サービスはチャイナ・ユニコムが提供しています</string>
+    <string name="operator_unicom">China Unicom</string>
+    <string name="operator_unicom_agreement">認証サービスはChina Unicomが提供しています</string>
     <string name="optional_permissions">任意のアクセス許可</string>
     <string name="page_load_failed">"ページを開けません"</string>
     <string name="passport_access_denied">アクセスが拒否されました</string>
@@ -723,7 +794,7 @@
     <string name="passport_getting_activator_phone">SIM情報を取得中…</string>
     <string name="passport_getting_verify_code">取得中</string>
     <string name="passport_google_application_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
-    <string name="passport_google_login">先ほど使用したGoogle アカウントでMi アカウントにサインインしますか？</string>
+    <string name="passport_google_login">先ほど使用したGoogle アカウントでXiaomi アカウントにサインインしますか？</string>
     <string name="passport_google_login_agree">Google アカウント</string>
     <string name="passport_google_login_btn_content_description">Googleでサインイン</string>
     <string name="passport_google_login_disagree">Xiaomi アカウント</string>
@@ -923,6 +994,7 @@
     <string name="privacy_policy_reject_confirm_title">"Xiaomi アカウントを使用できません"</string>
     <string name="privacy_policy_update_msg">Xiaomi アカウントのプライバシーポリシーが更新されました。&lt;br/&gt;%1$s&lt;br/&gt;続ける前に、新しいバージョンの&lt;a href=%2$s&gt;&lt;u&gt;プライバシーポリシー&lt;/u&gt;&lt;/a&gt;を読んで同意してください。</string>
     <string name="privacy_policy_update_title">プライバシーポリシーの更新</string>
+    <string name="project_id">micloud-43705</string>
     <string name="provision_back">戻る</string>
     <string name="provision_next">次へ</string>
     <string name="provision_skip_underline">スキップ</string>
@@ -934,13 +1006,14 @@
     <string name="qrcode_login_entry_text">&lt;Data&gt;別のデバイスでサインインしていますか？&lt;a href=&gt;クイックサインイン&lt;/a&gt;を使用しますか？&lt;/Data&gt;</string>
     <string name="qrcode_login_load_refresh">&lt;Data&gt;このQRコードは有効期限が切れています。タップして&lt;a href=&gt;更新&lt;/a&gt;します。&lt;/Data&gt;</string>
     <string name="qrcode_login_load_retry">&lt;Data&gt;読み込めませんでした。&lt;a href=&gt;もう一度お試しください&lt;/a&gt;。&lt;/Data&gt;</string>
-    <string name="qrcode_login_message">"Mi AI Scanner または別の Xiaomi アプリでスキャンすると Xiaomi アカウントにサインインできます"</string>
+    <string name="qrcode_login_message">Mi AI Scanner または別の Xiaomi アプリでスキャンすると Xiaomi アカウントにサインインできます</string>
     <string name="qrcode_login_title">スキャンしてサインイン</string>
     <string name="range_end">範囲の末尾</string>
     <string name="range_start">範囲の先頭</string>
     <string name="recycle_phone_notification_msg">登録している電話番号は再利用されているようです。タップしてアップデートしてください。</string>
     <string name="recycle_phone_notification_title">Xiaomi アカウントのセキュリティリスク</string>
     <string name="removing_account">サインアウトしています…</string>
+    <string name="reopen">Turn on</string>
     <string name="request_open_permission">アクセス許可が必要です</string>
     <string name="request_use_camera_message">"Xiaomi アカウントによるスマートフォンのカメラへのアクセスを許可しますか？"</string>
     <string name="request_use_camera_title">カメラへのアクセス</string>
@@ -981,6 +1054,7 @@
     <string name="send">送信</string>
     <string name="service_error">サービスエラー</string>
     <string name="set_success">正常に変更されました</string>
+    <string name="setting_ps">パスワードの設定</string>
     <string name="sign_in">サインイン</string>
     <string name="sim_card">SIMカード</string>
     <string name="sim_changed_notification_msg">タップして復旧用の電話番号をアップデートし、アカウントの安全性を高めてください。</string>
@@ -1123,16 +1197,16 @@
 &lt;/Data&gt;</string>
     <string name="user_license_without_3rd_unicom">&lt;Data&gt;Xiaomi アカウントの&lt;a href=%1$s&gt;利用規約&lt;/a&gt;と&lt;a href=%2$s&gt;プライバシーポリシー&lt;/a&gt;、および&lt;a href=%3$s&gt;チャイナ・ユニコム認証サービス利用規約&lt;/a&gt;を読み、同意しました。
 &lt;/Data&gt;</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+    <string name="v7_preference_off">オフ</string>
+    <string name="v7_preference_on">オン</string>
     <string name="wednesday">水曜日</string>
     <string name="wednesday_short">水</string>
     <string name="wednesday_shortest">水</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">WeChatでサインイン</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">今はしない</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">アップデート</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">アップデートが利用可能です</string>
     <string name="yesterday">昨日</string>
 </resources>

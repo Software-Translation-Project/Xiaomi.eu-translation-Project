@@ -262,6 +262,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">写真から個人情報を削除中 (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Taking screenshot…</string>
+    <string name="long_screenshot_content_loading">Just a sec…</string>
+    <string name="long_screenshot_content_manual">Manually adjust the endpoint of the screenshot, then tap \"Done\".</string>
+    <string name="long_screenshot_done">Done</string>
     <string name="long_screenshot_error">エラーが発生しました。もう一度お試しください。</string>
     <string name="long_screenshot_guide_text">"タップして
 スクロールスクリーンショットを作成"</string>
@@ -270,6 +274,7 @@
     <string name="long_screenshot_processing">処理中…</string>
     <string name="long_screenshot_processing_description_accessibility">処理中</string>
     <string name="long_screenshot_stop">完了</string>
+    <string name="long_screenshot_title">Scrolling screenshot</string>
     <string name="long_screenshot_top_msg">スクリーンショットを作成中…</string>
     <string name="long_screenshot_top_msg_description_accessibility">スクリーンショットを作成中</string>
     <string name="long_screenshot_top_msg_manual">スクリーンショットの長さを手動で調整してから、ボタンをタップして終了します</string>
@@ -499,6 +504,7 @@
     <string name="screenshot_long_screenshot">スクロール</string>
     <string name="screenshot_save">保存</string>
     <string name="screenshot_send">送信</string>
+    <string name="screenshot_succeed">Took screenshot successfully</string>
     <string name="screenshot_thumbnail">スクリーンショットのサムネイル</string>
     <string name="scroll_annotation">スクロールして注釈を付ける</string>
     <string name="scroll_annotation_btn_quit">注釈を終了</string>
